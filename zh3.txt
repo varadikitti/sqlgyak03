@@ -19,7 +19,7 @@ db.users.aggregate([ {$project: {_id:0, name:1, email:1} }, {$match: {email: {$r
 
 3. feladat
 
-db.movies.aggregate([ {$match: {year: {$gt:1950} } }, {$group: {_id:"$rated", atlagfutas: {$avg:"$runtime"} } }, {$project: {_id:0, rated:1, atlagfutas:1} } ])
+db.movies.aggregate([ {$match: {year: {$gt:1950} } }, {$group: {_id:"$rated", atlagfutas: {$avg:"$runtime"} } }, {$project: {_id:0, atlagfutas:1} } ])
 
 
 
