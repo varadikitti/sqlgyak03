@@ -1,4 +1,5 @@
 1. feladat
+
 Filter:
 {"genres.0":"Short", year: {$gt:1944, $lt:1971} }
 
