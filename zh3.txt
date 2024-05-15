@@ -1,0 +1,42 @@
+1. feladat
+
+Filter:
+{"genres.0":"Short", year: {$gt:1944, $lt:1971} }
+
+Project:
+{_id:0, title:1, year:1}
+
+Sort:
+{year:1, title:1}
+
+
+
+2. feladat
+
+db.users.aggregate([ {$project: {_id:0, name:1, email:1} }, {$match: {email: {$regex:".com"} } } ])
+
+
+
+3. feladat
+
+db.movies.aggregate([ {$match: {year: {$gt:1950} } }, {$group: {_id:"$rated", atlagfutas: {$avg:"$runtime"} } }, {$project: {_id:0, atlagfutas:1} } ])
+
+
+
+4. feladat
+
+MATCH (p:Person)-[:ACTED_IN] -> (m:Movie)
+WITH m, COUNT(p) AS szereplokSzama
+RETURN m.title AS filmCim, szereplokSzama
+ORDER BY szereplokSzama DESC
+LIMIT 1
+
+
+
+5. feladat
+
+MATCH (p:Person)-[:ACTED_IN] -> (m:Movie)
+WHERE p.born > 1980
+WITH p, COUNT(m) AS NumMoviesActedIn
+RETURN p.name AS Actor, p.born AS BirthYear, NumMoviesActedIn
+ORDER BY Actor
