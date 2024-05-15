@@ -1,0 +1,965 @@
+﻿Stadium_Id;Stadium_Name;City_Name;Country_Name
+S-001;Estadio José Amalfitani;Buenos Aires;Argentina
+S-002;Estadio Monumental;Buenos Aires;Argentina
+S-003;Estadio Chateau Carreras;Córdoba;Argentina
+S-004;Estadio José María Minella;Mar del Plata;Argentina
+S-005;Estadio Ciudad de Mendoza;Mendoza;Argentina
+S-006;Estadio Gigante de Arroyito;Rosario;Argentina
+S-007;Estádio Independęncia;Belo Horizonte;Brazil
+S-008;Estádio Mineirăo;Belo Horizonte;Brazil
+S-009;Estádio Nacional;Brasília;Brazil
+S-010;Arena Pantanal;Cuiabá;Brazil
+S-011;Arena da Baixada;Curitiba;Brazil
+S-012;Estádio Vila Capanema;Curitiba;Brazil
+S-013;Estádio Castelăo;Fortaleza;Brazil
+S-014;Arena da Amazônia;Manaus;Brazil
+S-015;Arena das Dunas;Natal;Brazil
+S-016;Estádio Beira-Rio;Porto Alegre;Brazil
+S-017;Estádio dos Eucaliptos;Porto Alegre;Brazil
+S-018;Arena Pernambuco;Recife;Brazil
+S-019;Estádio Ilha do Retiro;Recife;Brazil
+S-020;Estádio do Maracană;Rio de Janeiro;Brazil
+S-021;Arena Fonte Nova;Salvador;Brazil
+S-022;Arena Corinthians;Săo Paulo;Brazil
+S-023;Estádio do Pacaembu;Săo Paulo;Brazil
+S-024;Estadio Carlos Dittborn;Arica;Chile
+S-025;Estadio El Teniente;Rancagua;Chile
+S-026;Estadio Nacional;Santiago;Chile
+S-027;Estadio Sausalito;Vińa del Mar;Chile
+S-028;Villa Park;Birmingham;England
+S-029;Goodison Park;Liverpool;England
+S-030;Wembley Stadium;London;England
+S-031;White City Stadium;London;England
+S-032;Old Trafford;Manchester;England
+S-033;Ayresome Park;Middlesbrough;England
+S-034;Hillsborough Stadium;Sheffield;England
+S-035;Roker Park;Sunderland;England
+S-036;Stade du Fort Carré;Antibes;France
+S-037;Stade du Parc Lescure;Bordeaux;France
+S-038;Stade Jules Deschaseaux;Le Havre;France
+S-039;Stade Félix-Bollaert;Lens;France
+S-040;Stade Victor Boucquey;Lille;France
+S-041;Stade de Gerland;Lyon;France
+S-042;Stade Vélodrome;Marseille;France
+S-043;Stade de la Mosson;Montpellier;France
+S-044;Stade de la Beaujoire;Nantes;France
+S-045;Parc des Princes;Paris;France
+S-046;Stade Olympique de Colombes;Paris;France
+S-047;Vélodrome Municipal;Reims;France
+S-048;Stade de France;Saint-Denis;France
+S-049;Stade Geoffroy-Guichard;Saint-Étienne;France
+S-050;Stade de la Meinau;Strasbourg;France
+S-051;Stade de Toulouse;Toulouse;France
+S-052;Stade du T.O.E.C.;Toulouse;France
+S-053;Olympiastadion;Berlin;Germany
+S-054;RheinEnergieStadion;Cologne;Germany
+S-055;Westfalenstadion;Dortmund;Germany
+S-056;Rheinstadion;Düsseldorf;Germany
+S-057;Waldstadion;Frankfurt;Germany
+S-058;Arena AufShalke;Gelsenkirchen;Germany
+S-059;Parkstadion;Gelsenkirchen;Germany
+S-060;Volksparkstadion;Hamburg;Germany
+S-061;Niedersachsenstadion;Hanover;Germany
+S-062;Fritz-Walter-Stadion;Kaiserslautern;Germany
+S-063;Zentralstadion;Leipzig;Germany
+S-064;Allianz Arena;Munich;Germany
+S-065;Olympiastadion;Munich;Germany
+S-066;Frankenstadion;Nuremberg;Germany
+S-067;Neckarstadion;Stuttgart;Germany
+S-068;Stadio San Nicola;Bari;Italy
+S-069;Stadio Renato Dall'Ara;Bologna;Italy
+S-070;Stadio Sant'Elia;Cagliari;Italy
+S-071;Stadio Comunale;Florence;Italy
+S-072;Stadio Giovanni Berta;Florence;Italy
+S-073;Stadio Luigi Ferraris;Genoa;Italy
+S-074;San Siro;Milan;Italy
+S-075;Stadio Giorgio Ascarelli;Naples;Italy
+S-076;Stadio San Paolo;Naples;Italy
+S-077;Stadio La Favorita;Palermo;Italy
+S-078;Stadio Nazionale PNF;Rome;Italy
+S-079;Stadio Olimpico;Rome;Italy
+S-080;Stadio Littorio;Trieste;Italy
+S-081;Stadio Benito Mussolini;Turin;Italy
+S-082;Stadio delle Alpi;Turin;Italy
+S-083;Stadio Friuli;Udine;Italy
+S-084;Stadio Marc'Antonio Bentegodi;Verona;Italy
+S-085;Kashima Stadium;Ibaraki;Japan
+S-086;Kobe Wing Stadium;Kobe;Japan
+S-087;Miyagi Stadium;Miyagi;Japan
+S-088;Niigata Stadium;Niigata;Japan
+S-089;?ita Stadium;?ita;Japan
+S-090;Nagai Stadium;Osaka;Japan
+S-091;Saitama Stadium;Saitama;Japan
+S-092;Sapporo Dome;Sapporo;Japan
+S-093;Shizuoka Stadium ECOPA;Shizuoka;Japan
+S-094;International Stadium Yokohama;Yokohama;Japan
+S-095;Estadio Jalisco;Guadalajara;Mexico
+S-096;Estadio Tres de Marzo;Guadalajara;Mexico
+S-097;Estadio Sergio León Chavez;Irapuato;Mexico
+S-098;Estadio Nou Camp;León;Mexico
+S-099;Estadio Azteca;Mexico City;Mexico
+S-100;Estadio Olímpico Universitario;Mexico City;Mexico
+S-101;Estadio Tecnológico;Monterrey;Mexico
+S-102;Estadio Universitario;Monterrey;Mexico
+S-103;Estadio Neza 86;Nezahualcóyotl;Mexico
+S-104;Estadio Cuauhtémoc;Puebla;Mexico
+S-105;Estadio La Corregidora;Querétaro;Mexico
+S-106;La Bombonera;Toluca;Mexico
+S-107;Al Bayt Stadium;Al Khor;Qatar
+S-108;Ahmad bin Ali Stadium;Al Rayyan;Qatar
+S-109;Education City Stadium;Al Rayyan;Qatar
+S-110;Khalifa International Stadium;Al Rayyan;Qatar
+S-111;Al Janoub Stadium;Al Wakrah;Qatar
+S-112;Al Thumama Stadium;Doha;Qatar
+S-113;Stadium 974;Doha;Qatar
+S-114;Lusail Stadium;Lusail;Qatar
+S-115;Kaliningrad Stadium;Kaliningrad;Russia
+S-116;Kazan Arena;Kazan;Russia
+S-117;Luzhniki Stadium;Moscow;Russia
+S-118;Otkritie Arena;Moscow;Russia
+S-119;Nizhny Novgorod Stadium;Nizhny Novgorod;Russia
+S-120;Rostov Arena;Rostov-on-Don;Russia
+S-121;Krestovsky Stadium;Saint Petersburg;Russia
+S-122;Samara Arena;Samara;Russia
+S-123;Mordovia Arena;Saransk;Russia
+S-124;Fisht Olympic Stadium;Sochi;Russia
+S-125;Volgograd Arena;Volgograd;Russia
+S-126;Central Stadium;Yekaterinburg;Russia
+S-127;Free State Stadium;Bloemfontein;South Africa
+S-128;Cape Town Stadium;Cape Town;South Africa
+S-129;Moses Mabhida Stadium;Durban;South Africa
+S-130;Ellis Park Stadium;Johannesburg;South Africa
+S-131;Soccer City;Johannesburg;South Africa
+S-132;Mbombela Stadium;Nelspruit;South Africa
+S-133;Peter Mokaba Stadium;Polokwane;South Africa
+S-134;Nelson Mandela Bay Stadium;Port Elizabeth;South Africa
+S-135;Loftus Versfeld Stadium;Pretoria;South Africa
+S-136;Royal Bafokeng Stadium;Rustenburg;South Africa
+S-137;Busan Asiad Stadium;Busan;South Korea
+S-138;Daegu World Cup Stadium;Daegu;South Korea
+S-139;Daejeon World Cup Stadium;Daejeon;South Korea
+S-140;Gwangju World Cup Stadium;Gwangju;South Korea
+S-141;Incheon Munhak Stadium;Incheon;South Korea
+S-142;Jeonju World Cup Stadium;Jeonju;South Korea
+S-143;Jeju World Cup Stadium;Seogwipo;South Korea
+S-144;Seoul World Cup Stadium;Seoul;South Korea
+S-145;Suwon World Cup Stadium;Suwon;South Korea
+S-146;Ulsan Munsu Football Stadium;Ulsan;South Korea
+S-147;Estadio Riazor;A Coruńa;Spain
+S-148;Estadio José Rico Pérez;Alicante;Spain
+S-149;Camp Nou;Barcelona;Spain
+S-150;Estadi de Sarriŕ;Barcelona;Spain
+S-151;Estadio San Mamés;Bilbao;Spain
+S-152;Nuevo Estadio;Elche;Spain
+S-153;Estadio El Molinón;Gijón;Spain
+S-154;Estadio Santiago Bernabéu;Madrid;Spain
+S-155;Vicente Calderón;Madrid;Spain
+S-156;Estadio La Rosaleda;Málaga;Spain
+S-157;Estadio Carlos Tartiere;Oviedo;Spain
+S-158;Estadio Benito Villamarín;Seville;Spain
+S-159;Estadio Ramón Sánchez Pizjuán;Seville;Spain
+S-160;Estadio Luis Casanova;Valencia;Spain
+S-161;Estadio José Zorrilla;Valladolid;Spain
+S-162;Balaídos;Vigo;Spain
+S-163;Estadio La Romareda;Zaragoza;Spain
+S-164;Ryavallen;Borĺs;Sweden
+S-165;Tunavallen;Eskilstuna;Sweden
+S-166;Ullevi;Gothenburg;Sweden
+S-167;Örjans Vall;Halmstad;Sweden
+S-168;Olympia;Helsingborg;Sweden
+S-169;Malmö Stadion;Malmö;Sweden
+S-170;Idrottsparken;Norrköping;Sweden
+S-171;Eyravallen;Örebro;Sweden
+S-172;Jernvallen;Sandviken;Sweden
+S-173;Rĺsunda Stadium;Solna;Sweden
+S-174;Rimnersvallen;Uddevalla;Sweden
+S-175;Arosvallen;Västerĺs;Sweden
+S-176;St. Jakob Stadium;Basel;Switzerland
+S-177;Wankdorf Stadium;Bern;Switzerland
+S-178;Charmilles Stadium;Geneva;Switzerland
+S-179;Stade Olympique de la Pontaise;Lausanne;Switzerland
+S-180;Cornaredo Stadium;Lugano;Switzerland
+S-181;Hardturm Stadium;Zürich;Switzerland
+S-182;Soldier Field;Chicago;United States
+S-183;Cotton Bowl;Dallas;United States
+S-184;Giants Stadium;East Rutherford;United States
+S-185;Foxboro Stadium;Foxborough;United States
+S-186;Citrus Bowl;Orlando;United States
+S-187;Rose Bowl;Pasadena;United States
+S-188;Pontiac Silverdome;Pontiac;United States
+S-189;Stanford Stadium;Stanford;United States
+S-190;RFK Stadium;Washington, D.C.;United States
+S-191;Estadio Centenario;Montevideo;Uruguay
+S-192;Estadio Gran Parque Central;Montevideo;Uruguay
+S-193;Estadio Pocitos;Montevideo;Uruguay
+M-1966-26;1966 FIFA World Cup;S-029;quarter-finals
+M-1966-27;1966 FIFA World Cup;S-035;quarter-finals
+M-1966-28;1966 FIFA World Cup;S-034;quarter-finals
+M-1966-29;1966 FIFA World Cup;S-029;semi-finals
+M-1966-30;1966 FIFA World Cup;S-030;semi-finals
+M-1966-31;1966 FIFA World Cup;S-030;third-place match
+M-1966-32;1966 FIFA World Cup;S-030;final
+M-1970-01;1970 FIFA World Cup;S-099;group stage
+M-1970-02;1970 FIFA World Cup;S-104;group stage
+M-1970-03;1970 FIFA World Cup;S-095;group stage
+M-1970-04;1970 FIFA World Cup;S-098;group stage
+M-1970-05;1970 FIFA World Cup;S-099;group stage
+M-1970-06;1970 FIFA World Cup;S-106;group stage
+M-1970-07;1970 FIFA World Cup;S-095;group stage
+M-1970-08;1970 FIFA World Cup;S-098;group stage
+M-1970-09;1970 FIFA World Cup;S-099;group stage
+M-1970-10;1970 FIFA World Cup;S-104;group stage
+M-1970-11;1970 FIFA World Cup;S-095;group stage
+M-1970-12;1970 FIFA World Cup;S-098;group stage
+M-1970-13;1970 FIFA World Cup;S-099;group stage
+M-1970-14;1970 FIFA World Cup;S-106;group stage
+M-1970-15;1970 FIFA World Cup;S-095;group stage
+M-1970-16;1970 FIFA World Cup;S-098;group stage
+M-1970-17;1970 FIFA World Cup;S-099;group stage
+M-1970-18;1970 FIFA World Cup;S-104;group stage
+M-1970-19;1970 FIFA World Cup;S-095;group stage
+M-1970-20;1970 FIFA World Cup;S-098;group stage
+M-1970-21;1970 FIFA World Cup;S-099;group stage
+M-1970-22;1970 FIFA World Cup;S-106;group stage
+M-1970-23;1970 FIFA World Cup;S-095;group stage
+M-1970-24;1970 FIFA World Cup;S-098;group stage
+M-1970-25;1970 FIFA World Cup;S-095;quarter-finals
+M-1970-26;1970 FIFA World Cup;S-106;quarter-finals
+M-1970-27;1970 FIFA World Cup;S-099;quarter-finals
+M-1970-28;1970 FIFA World Cup;S-098;quarter-finals
+M-1970-29;1970 FIFA World Cup;S-095;semi-finals
+M-1970-30;1970 FIFA World Cup;S-099;semi-finals
+M-1970-31;1970 FIFA World Cup;S-099;third-place match
+M-1970-32;1970 FIFA World Cup;S-099;final
+M-1974-01;1974 FIFA World Cup;S-057;group stage
+M-1974-02;1974 FIFA World Cup;S-053;group stage
+M-1974-03;1974 FIFA World Cup;S-060;group stage
+M-1974-04;1974 FIFA World Cup;S-055;group stage
+M-1974-05;1974 FIFA World Cup;S-056;group stage
+M-1974-06;1974 FIFA World Cup;S-061;group stage
+M-1974-07;1974 FIFA World Cup;S-065;group stage
+M-1974-08;1974 FIFA World Cup;S-067;group stage
+M-1974-09;1974 FIFA World Cup;S-060;group stage
+M-1974-10;1974 FIFA World Cup;S-053;group stage
+M-1974-11;1974 FIFA World Cup;S-057;group stage
+M-1974-12;1974 FIFA World Cup;S-059;group stage
+M-1974-13;1974 FIFA World Cup;S-061;group stage
+M-1974-14;1974 FIFA World Cup;S-055;group stage
+M-1974-15;1974 FIFA World Cup;S-067;group stage
+M-1974-16;1974 FIFA World Cup;S-065;group stage
+M-1974-17;1974 FIFA World Cup;S-053;group stage
+M-1974-18;1974 FIFA World Cup;S-057;group stage
+M-1974-19;1974 FIFA World Cup;S-059;group stage
+M-1974-20;1974 FIFA World Cup;S-060;group stage
+M-1974-21;1974 FIFA World Cup;S-055;group stage
+M-1974-22;1974 FIFA World Cup;S-056;group stage
+M-1974-23;1974 FIFA World Cup;S-065;group stage
+M-1974-24;1974 FIFA World Cup;S-067;group stage
+M-1974-25;1974 FIFA World Cup;S-056;second group stage
+M-1974-26;1974 FIFA World Cup;S-061;second group stage
+M-1974-27;1974 FIFA World Cup;S-059;second group stage
+M-1974-28;1974 FIFA World Cup;S-067;second group stage
+M-1974-29;1974 FIFA World Cup;S-061;second group stage
+M-1974-30;1974 FIFA World Cup;S-059;second group stage
+M-1974-31;1974 FIFA World Cup;S-057;second group stage
+M-1974-32;1974 FIFA World Cup;S-056;second group stage
+M-1974-33;1974 FIFA World Cup;S-057;second group stage
+M-1974-34;1974 FIFA World Cup;S-059;second group stage
+M-1974-35;1974 FIFA World Cup;S-055;second group stage
+M-1974-36;1974 FIFA World Cup;S-056;second group stage
+M-1974-37;1974 FIFA World Cup;S-065;third-place match
+M-1974-38;1974 FIFA World Cup;S-065;final
+M-1978-01;1978 FIFA World Cup;S-002;group stage
+M-1978-02;1978 FIFA World Cup;S-004;group stage
+M-1978-03;1978 FIFA World Cup;S-006;group stage
+M-1978-04;1978 FIFA World Cup;S-002;group stage
+M-1978-05;1978 FIFA World Cup;S-001;group stage
+M-1978-06;1978 FIFA World Cup;S-004;group stage
+M-1978-07;1978 FIFA World Cup;S-005;group stage
+M-1978-08;1978 FIFA World Cup;S-003;group stage
+M-1978-09;1978 FIFA World Cup;S-004;group stage
+M-1978-10;1978 FIFA World Cup;S-006;group stage
+M-1978-11;1978 FIFA World Cup;S-003;group stage
+M-1978-12;1978 FIFA World Cup;S-002;group stage
+M-1978-13;1978 FIFA World Cup;S-001;group stage
+M-1978-14;1978 FIFA World Cup;S-004;group stage
+M-1978-15;1978 FIFA World Cup;S-005;group stage
+M-1978-16;1978 FIFA World Cup;S-003;group stage
+M-1978-17;1978 FIFA World Cup;S-004;group stage
+M-1978-18;1978 FIFA World Cup;S-006;group stage
+M-1978-19;1978 FIFA World Cup;S-003;group stage
+M-1978-20;1978 FIFA World Cup;S-002;group stage
+M-1978-21;1978 FIFA World Cup;S-004;group stage
+M-1978-22;1978 FIFA World Cup;S-001;group stage
+M-1978-23;1978 FIFA World Cup;S-003;group stage
+M-1978-24;1978 FIFA World Cup;S-005;group stage
+M-1978-25;1978 FIFA World Cup;S-003;second group stage
+M-1978-26;1978 FIFA World Cup;S-002;second group stage
+M-1978-27;1978 FIFA World Cup;S-005;second group stage
+M-1978-28;1978 FIFA World Cup;S-006;second group stage
+M-1978-29;1978 FIFA World Cup;S-005;second group stage
+M-1978-30;1978 FIFA World Cup;S-002;second group stage
+M-1978-31;1978 FIFA World Cup;S-003;second group stage
+M-1978-32;1978 FIFA World Cup;S-006;second group stage
+M-1978-33;1978 FIFA World Cup;S-003;second group stage
+M-1978-34;1978 FIFA World Cup;S-002;second group stage
+M-1978-35;1978 FIFA World Cup;S-005;second group stage
+M-1978-36;1978 FIFA World Cup;S-006;second group stage
+M-1978-37;1978 FIFA World Cup;S-002;third-place match
+M-1978-38;1978 FIFA World Cup;S-002;final
+M-1982-01;1982 FIFA World Cup;S-149;group stage
+M-1982-02;1982 FIFA World Cup;S-162;group stage
+M-1982-03;1982 FIFA World Cup;S-159;group stage
+M-1982-04;1982 FIFA World Cup;S-147;group stage
+M-1982-05;1982 FIFA World Cup;S-152;group stage
+M-1982-06;1982 FIFA World Cup;S-156;group stage
+M-1982-07;1982 FIFA World Cup;S-153;group stage
+M-1982-08;1982 FIFA World Cup;S-151;group stage
+M-1982-09;1982 FIFA World Cup;S-160;group stage
+M-1982-10;1982 FIFA World Cup;S-157;group stage
+M-1982-11;1982 FIFA World Cup;S-161;group stage
+M-1982-12;1982 FIFA World Cup;S-163;group stage
+M-1982-13;1982 FIFA World Cup;S-162;group stage
+M-1982-14;1982 FIFA World Cup;S-148;group stage
+M-1982-15;1982 FIFA World Cup;S-158;group stage
+M-1982-16;1982 FIFA World Cup;S-147;group stage
+M-1982-17;1982 FIFA World Cup;S-152;group stage
+M-1982-18;1982 FIFA World Cup;S-156;group stage
+M-1982-19;1982 FIFA World Cup;S-153;group stage
+M-1982-20;1982 FIFA World Cup;S-151;group stage
+M-1982-21;1982 FIFA World Cup;S-160;group stage
+M-1982-22;1982 FIFA World Cup;S-157;group stage
+M-1982-23;1982 FIFA World Cup;S-161;group stage
+M-1982-24;1982 FIFA World Cup;S-163;group stage
+M-1982-25;1982 FIFA World Cup;S-147;group stage
+M-1982-26;1982 FIFA World Cup;S-152;group stage
+M-1982-27;1982 FIFA World Cup;S-156;group stage
+M-1982-28;1982 FIFA World Cup;S-162;group stage
+M-1982-29;1982 FIFA World Cup;S-148;group stage
+M-1982-30;1982 FIFA World Cup;S-158;group stage
+M-1982-31;1982 FIFA World Cup;S-157;group stage
+M-1982-32;1982 FIFA World Cup;S-161;group stage
+M-1982-33;1982 FIFA World Cup;S-163;group stage
+M-1982-34;1982 FIFA World Cup;S-153;group stage
+M-1982-35;1982 FIFA World Cup;S-151;group stage
+M-1982-36;1982 FIFA World Cup;S-160;group stage
+M-1982-37;1982 FIFA World Cup;S-155;second group stage
+M-1982-38;1982 FIFA World Cup;S-149;second group stage
+M-1982-39;1982 FIFA World Cup;S-150;second group stage
+M-1982-40;1982 FIFA World Cup;S-154;second group stage
+M-1982-41;1982 FIFA World Cup;S-155;second group stage
+M-1982-42;1982 FIFA World Cup;S-149;second group stage
+M-1982-43;1982 FIFA World Cup;S-150;second group stage
+M-1982-44;1982 FIFA World Cup;S-154;second group stage
+M-1982-45;1982 FIFA World Cup;S-155;second group stage
+M-1982-46;1982 FIFA World Cup;S-149;second group stage
+M-1982-47;1982 FIFA World Cup;S-150;second group stage
+M-1982-48;1982 FIFA World Cup;S-154;second group stage
+M-1982-49;1982 FIFA World Cup;S-149;semi-finals
+M-1982-50;1982 FIFA World Cup;S-159;semi-finals
+M-1982-51;1982 FIFA World Cup;S-148;third-place match
+M-1982-52;1982 FIFA World Cup;S-154;final
+M-1986-01;1986 FIFA World Cup;S-099;group stage
+M-1986-02;1986 FIFA World Cup;S-095;group stage
+M-1986-03;1986 FIFA World Cup;S-098;group stage
+M-1986-04;1986 FIFA World Cup;S-100;group stage
+M-1986-05;1986 FIFA World Cup;S-097;group stage
+M-1986-06;1986 FIFA World Cup;S-102;group stage
+M-1986-07;1986 FIFA World Cup;S-099;group stage
+M-1986-08;1986 FIFA World Cup;S-096;group stage
+M-1986-09;1986 FIFA World Cup;S-101;group stage
+M-1986-10;1986 FIFA World Cup;S-106;group stage
+M-1986-11;1986 FIFA World Cup;S-105;group stage
+M-1986-12;1986 FIFA World Cup;S-103;group stage
+M-1986-13;1986 FIFA World Cup;S-104;group stage
+M-1986-14;1986 FIFA World Cup;S-098;group stage
+M-1986-15;1986 FIFA World Cup;S-100;group stage
+M-1986-16;1986 FIFA World Cup;S-097;group stage
+M-1986-17;1986 FIFA World Cup;S-095;group stage
+M-1986-18;1986 FIFA World Cup;S-101;group stage
+M-1986-19;1986 FIFA World Cup;S-099;group stage
+M-1986-20;1986 FIFA World Cup;S-096;group stage
+M-1986-21;1986 FIFA World Cup;S-102;group stage
+M-1986-22;1986 FIFA World Cup;S-106;group stage
+M-1986-23;1986 FIFA World Cup;S-105;group stage
+M-1986-24;1986 FIFA World Cup;S-103;group stage
+M-1986-25;1986 FIFA World Cup;S-098;group stage
+M-1986-26;1986 FIFA World Cup;S-097;group stage
+M-1986-27;1986 FIFA World Cup;S-100;group stage
+M-1986-28;1986 FIFA World Cup;S-104;group stage
+M-1986-29;1986 FIFA World Cup;S-099;group stage
+M-1986-30;1986 FIFA World Cup;S-106;group stage
+M-1986-31;1986 FIFA World Cup;S-102;group stage
+M-1986-32;1986 FIFA World Cup;S-096;group stage
+M-1986-33;1986 FIFA World Cup;S-101;group stage
+M-1986-34;1986 FIFA World Cup;S-095;group stage
+M-1986-35;1986 FIFA World Cup;S-105;group stage
+M-1986-36;1986 FIFA World Cup;S-103;group stage
+M-1986-37;1986 FIFA World Cup;S-099;round of 16
+M-1986-38;1986 FIFA World Cup;S-098;round of 16
+M-1986-39;1986 FIFA World Cup;S-095;round of 16
+M-1986-40;1986 FIFA World Cup;S-104;round of 16
+M-1986-41;1986 FIFA World Cup;S-100;round of 16
+M-1986-42;1986 FIFA World Cup;S-102;round of 16
+M-1986-43;1986 FIFA World Cup;S-099;round of 16
+M-1986-44;1986 FIFA World Cup;S-105;round of 16
+M-1986-45;1986 FIFA World Cup;S-095;quarter-finals
+M-1986-46;1986 FIFA World Cup;S-102;quarter-finals
+M-1986-47;1986 FIFA World Cup;S-099;quarter-finals
+M-1986-48;1986 FIFA World Cup;S-104;quarter-finals
+M-1986-49;1986 FIFA World Cup;S-095;semi-finals
+M-1986-50;1986 FIFA World Cup;S-099;semi-finals
+M-1986-51;1986 FIFA World Cup;S-104;third-place match
+M-1986-52;1986 FIFA World Cup;S-099;final
+M-1990-01;1990 FIFA World Cup;S-074;group stage
+M-1990-02;1990 FIFA World Cup;S-068;group stage
+M-1990-03;1990 FIFA World Cup;S-069;group stage
+M-1990-04;1990 FIFA World Cup;S-079;group stage
+M-1990-05;1990 FIFA World Cup;S-071;group stage
+M-1990-06;1990 FIFA World Cup;S-082;group stage
+M-1990-07;1990 FIFA World Cup;S-074;group stage
+M-1990-08;1990 FIFA World Cup;S-073;group stage
+M-1990-09;1990 FIFA World Cup;S-070;group stage
+M-1990-10;1990 FIFA World Cup;S-084;group stage
+M-1990-11;1990 FIFA World Cup;S-077;group stage
+M-1990-12;1990 FIFA World Cup;S-083;group stage
+M-1990-13;1990 FIFA World Cup;S-076;group stage
+M-1990-14;1990 FIFA World Cup;S-068;group stage
+M-1990-15;1990 FIFA World Cup;S-069;group stage
+M-1990-16;1990 FIFA World Cup;S-079;group stage
+M-1990-17;1990 FIFA World Cup;S-071;group stage
+M-1990-18;1990 FIFA World Cup;S-074;group stage
+M-1990-19;1990 FIFA World Cup;S-082;group stage
+M-1990-20;1990 FIFA World Cup;S-073;group stage
+M-1990-21;1990 FIFA World Cup;S-070;group stage
+M-1990-22;1990 FIFA World Cup;S-077;group stage
+M-1990-23;1990 FIFA World Cup;S-084;group stage
+M-1990-24;1990 FIFA World Cup;S-083;group stage
+M-1990-25;1990 FIFA World Cup;S-076;group stage
+M-1990-26;1990 FIFA World Cup;S-068;group stage
+M-1990-27;1990 FIFA World Cup;S-074;group stage
+M-1990-28;1990 FIFA World Cup;S-069;group stage
+M-1990-29;1990 FIFA World Cup;S-071;group stage
+M-1990-30;1990 FIFA World Cup;S-079;group stage
+M-1990-31;1990 FIFA World Cup;S-082;group stage
+M-1990-32;1990 FIFA World Cup;S-073;group stage
+M-1990-33;1990 FIFA World Cup;S-084;group stage
+M-1990-34;1990 FIFA World Cup;S-083;group stage
+M-1990-35;1990 FIFA World Cup;S-070;group stage
+M-1990-36;1990 FIFA World Cup;S-077;group stage
+M-1990-37;1990 FIFA World Cup;S-076;round of 16
+M-1990-38;1990 FIFA World Cup;S-068;round of 16
+M-1990-39;1990 FIFA World Cup;S-082;round of 16
+M-1990-40;1990 FIFA World Cup;S-074;round of 16
+M-1990-41;1990 FIFA World Cup;S-073;round of 16
+M-1990-42;1990 FIFA World Cup;S-079;round of 16
+M-1990-43;1990 FIFA World Cup;S-084;round of 16
+M-1990-44;1990 FIFA World Cup;S-069;round of 16
+M-1990-45;1990 FIFA World Cup;S-071;quarter-finals
+M-1990-46;1990 FIFA World Cup;S-079;quarter-finals
+M-1990-47;1990 FIFA World Cup;S-074;quarter-finals
+M-1990-48;1990 FIFA World Cup;S-076;quarter-finals
+M-1990-49;1990 FIFA World Cup;S-076;semi-finals
+M-1990-50;1990 FIFA World Cup;S-082;semi-finals
+M-1990-51;1990 FIFA World Cup;S-068;third-place match
+M-1990-52;1990 FIFA World Cup;S-079;final
+M-1994-01;1994 FIFA World Cup;S-182;group stage
+M-1994-02;1994 FIFA World Cup;S-183;group stage
+M-1994-03;1994 FIFA World Cup;S-188;group stage
+M-1994-04;1994 FIFA World Cup;S-184;group stage
+M-1994-05;1994 FIFA World Cup;S-187;group stage
+M-1994-06;1994 FIFA World Cup;S-186;group stage
+M-1994-07;1994 FIFA World Cup;S-190;group stage
+M-1994-08;1994 FIFA World Cup;S-187;group stage
+M-1994-09;1994 FIFA World Cup;S-189;group stage
+M-1994-10;1994 FIFA World Cup;S-190;group stage
+M-1994-11;1994 FIFA World Cup;S-185;group stage
+M-1994-12;1994 FIFA World Cup;S-182;group stage
+M-1994-13;1994 FIFA World Cup;S-183;group stage
+M-1994-14;1994 FIFA World Cup;S-188;group stage
+M-1994-15;1994 FIFA World Cup;S-187;group stage
+M-1994-16;1994 FIFA World Cup;S-184;group stage
+M-1994-17;1994 FIFA World Cup;S-185;group stage
+M-1994-18;1994 FIFA World Cup;S-186;group stage
+M-1994-19;1994 FIFA World Cup;S-189;group stage
+M-1994-20;1994 FIFA World Cup;S-188;group stage
+M-1994-21;1994 FIFA World Cup;S-186;group stage
+M-1994-22;1994 FIFA World Cup;S-184;group stage
+M-1994-23;1994 FIFA World Cup;S-185;group stage
+M-1994-24;1994 FIFA World Cup;S-182;group stage
+M-1994-25;1994 FIFA World Cup;S-189;group stage
+M-1994-26;1994 FIFA World Cup;S-187;group stage
+M-1994-27;1994 FIFA World Cup;S-182;group stage
+M-1994-28;1994 FIFA World Cup;S-183;group stage
+M-1994-29;1994 FIFA World Cup;S-190;group stage
+M-1994-30;1994 FIFA World Cup;S-184;group stage
+M-1994-31;1994 FIFA World Cup;S-189;group stage
+M-1994-32;1994 FIFA World Cup;S-188;group stage
+M-1994-33;1994 FIFA World Cup;S-190;group stage
+M-1994-34;1994 FIFA World Cup;S-186;group stage
+M-1994-35;1994 FIFA World Cup;S-183;group stage
+M-1994-36;1994 FIFA World Cup;S-185;group stage
+M-1994-37;1994 FIFA World Cup;S-182;round of 16
+M-1994-38;1994 FIFA World Cup;S-190;round of 16
+M-1994-39;1994 FIFA World Cup;S-183;round of 16
+M-1994-40;1994 FIFA World Cup;S-187;round of 16
+M-1994-41;1994 FIFA World Cup;S-186;round of 16
+M-1994-42;1994 FIFA World Cup;S-189;round of 16
+M-1994-43;1994 FIFA World Cup;S-185;round of 16
+M-1994-44;1994 FIFA World Cup;S-184;round of 16
+M-1994-45;1994 FIFA World Cup;S-185;quarter-finals
+M-1994-46;1994 FIFA World Cup;S-183;quarter-finals
+M-1994-47;1994 FIFA World Cup;S-184;quarter-finals
+M-1994-48;1994 FIFA World Cup;S-189;quarter-finals
+M-1994-49;1994 FIFA World Cup;S-184;semi-finals
+M-1994-50;1994 FIFA World Cup;S-187;semi-finals
+M-1994-51;1994 FIFA World Cup;S-187;third-place match
+M-1994-52;1994 FIFA World Cup;S-187;final
+M-1998-01;1998 FIFA World Cup;S-048;group stage
+M-1998-02;1998 FIFA World Cup;S-043;group stage
+M-1998-03;1998 FIFA World Cup;S-037;group stage
+M-1998-04;1998 FIFA World Cup;S-051;group stage
+M-1998-05;1998 FIFA World Cup;S-043;group stage
+M-1998-06;1998 FIFA World Cup;S-039;group stage
+M-1998-07;1998 FIFA World Cup;S-042;group stage
+M-1998-08;1998 FIFA World Cup;S-044;group stage
+M-1998-09;1998 FIFA World Cup;S-041;group stage
+M-1998-10;1998 FIFA World Cup;S-048;group stage
+M-1998-11;1998 FIFA World Cup;S-051;group stage
+M-1998-12;1998 FIFA World Cup;S-049;group stage
+M-1998-13;1998 FIFA World Cup;S-039;group stage
+M-1998-14;1998 FIFA World Cup;S-042;group stage
+M-1998-15;1998 FIFA World Cup;S-041;group stage
+M-1998-16;1998 FIFA World Cup;S-045;group stage
+M-1998-17;1998 FIFA World Cup;S-037;group stage
+M-1998-18;1998 FIFA World Cup;S-044;group stage
+M-1998-19;1998 FIFA World Cup;S-049;group stage
+M-1998-20;1998 FIFA World Cup;S-043;group stage
+M-1998-21;1998 FIFA World Cup;S-051;group stage
+M-1998-22;1998 FIFA World Cup;S-048;group stage
+M-1998-23;1998 FIFA World Cup;S-045;group stage
+M-1998-24;1998 FIFA World Cup;S-049;group stage
+M-1998-25;1998 FIFA World Cup;S-044;group stage
+M-1998-26;1998 FIFA World Cup;S-037;group stage
+M-1998-27;1998 FIFA World Cup;S-042;group stage
+M-1998-28;1998 FIFA World Cup;S-039;group stage
+M-1998-29;1998 FIFA World Cup;S-045;group stage
+M-1998-30;1998 FIFA World Cup;S-041;group stage
+M-1998-31;1998 FIFA World Cup;S-043;group stage
+M-1998-32;1998 FIFA World Cup;S-051;group stage
+M-1998-33;1998 FIFA World Cup;S-044;group stage
+M-1998-34;1998 FIFA World Cup;S-048;group stage
+M-1998-35;1998 FIFA World Cup;S-042;group stage
+M-1998-36;1998 FIFA World Cup;S-049;group stage
+M-1998-37;1998 FIFA World Cup;S-041;group stage
+M-1998-38;1998 FIFA World Cup;S-037;group stage
+M-1998-39;1998 FIFA World Cup;S-051;group stage
+M-1998-40;1998 FIFA World Cup;S-039;group stage
+M-1998-41;1998 FIFA World Cup;S-045;group stage
+M-1998-42;1998 FIFA World Cup;S-049;group stage
+M-1998-43;1998 FIFA World Cup;S-043;group stage
+M-1998-44;1998 FIFA World Cup;S-044;group stage
+M-1998-45;1998 FIFA World Cup;S-037;group stage
+M-1998-46;1998 FIFA World Cup;S-041;group stage
+M-1998-47;1998 FIFA World Cup;S-039;group stage
+M-1998-48;1998 FIFA World Cup;S-048;group stage
+M-1998-49;1998 FIFA World Cup;S-042;round of 16
+M-1998-50;1998 FIFA World Cup;S-045;round of 16
+M-1998-51;1998 FIFA World Cup;S-039;round of 16
+M-1998-52;1998 FIFA World Cup;S-048;round of 16
+M-1998-53;1998 FIFA World Cup;S-043;round of 16
+M-1998-54;1998 FIFA World Cup;S-051;round of 16
+M-1998-55;1998 FIFA World Cup;S-037;round of 16
+M-1998-56;1998 FIFA World Cup;S-049;round of 16
+M-1998-57;1998 FIFA World Cup;S-048;quarter-finals
+M-1998-58;1998 FIFA World Cup;S-044;quarter-finals
+M-1998-59;1998 FIFA World Cup;S-042;quarter-finals
+M-1998-60;1998 FIFA World Cup;S-041;quarter-finals
+M-1998-61;1998 FIFA World Cup;S-042;semi-finals
+M-1998-62;1998 FIFA World Cup;S-048;semi-finals
+M-1998-63;1998 FIFA World Cup;S-045;third-place match
+M-1998-64;1998 FIFA World Cup;S-048;final
+M-2002-01;2002 FIFA World Cup;S-144;group stage
+M-2002-02;2002 FIFA World Cup;S-088;group stage
+M-2002-03;2002 FIFA World Cup;S-146;group stage
+M-2002-04;2002 FIFA World Cup;S-092;group stage
+M-2002-05;2002 FIFA World Cup;S-085;group stage
+M-2002-06;2002 FIFA World Cup;S-137;group stage
+M-2002-07;2002 FIFA World Cup;S-091;group stage
+M-2002-08;2002 FIFA World Cup;S-140;group stage
+M-2002-09;2002 FIFA World Cup;S-088;group stage
+M-2002-10;2002 FIFA World Cup;S-146;group stage
+M-2002-11;2002 FIFA World Cup;S-092;group stage
+M-2002-12;2002 FIFA World Cup;S-140;group stage
+M-2002-13;2002 FIFA World Cup;S-091;group stage
+M-2002-14;2002 FIFA World Cup;S-137;group stage
+M-2002-15;2002 FIFA World Cup;S-086;group stage
+M-2002-16;2002 FIFA World Cup;S-145;group stage
+M-2002-17;2002 FIFA World Cup;S-085;group stage
+M-2002-18;2002 FIFA World Cup;S-138;group stage
+M-2002-19;2002 FIFA World Cup;S-091;group stage
+M-2002-20;2002 FIFA World Cup;S-137;group stage
+M-2002-21;2002 FIFA World Cup;S-086;group stage
+M-2002-22;2002 FIFA World Cup;S-142;group stage
+M-2002-23;2002 FIFA World Cup;S-092;group stage
+M-2002-24;2002 FIFA World Cup;S-138;group stage
+M-2002-25;2002 FIFA World Cup;S-085;group stage
+M-2002-26;2002 FIFA World Cup;S-143;group stage
+M-2002-27;2002 FIFA World Cup;S-087;group stage
+M-2002-28;2002 FIFA World Cup;S-141;group stage
+M-2002-29;2002 FIFA World Cup;S-094;group stage
+M-2002-30;2002 FIFA World Cup;S-138;group stage
+M-2002-31;2002 FIFA World Cup;S-089;group stage
+M-2002-32;2002 FIFA World Cup;S-142;group stage
+M-2002-33;2002 FIFA World Cup;S-141;group stage
+M-2002-34;2002 FIFA World Cup;S-145;group stage
+M-2002-35;2002 FIFA World Cup;S-093;group stage
+M-2002-36;2002 FIFA World Cup;S-094;group stage
+M-2002-37;2002 FIFA World Cup;S-090;group stage
+M-2002-38;2002 FIFA World Cup;S-087;group stage
+M-2002-39;2002 FIFA World Cup;S-143;group stage
+M-2002-40;2002 FIFA World Cup;S-139;group stage
+M-2002-41;2002 FIFA World Cup;S-145;group stage
+M-2002-42;2002 FIFA World Cup;S-144;group stage
+M-2002-43;2002 FIFA World Cup;S-094;group stage
+M-2002-44;2002 FIFA World Cup;S-089;group stage
+M-2002-45;2002 FIFA World Cup;S-093;group stage
+M-2002-46;2002 FIFA World Cup;S-090;group stage
+M-2002-47;2002 FIFA World Cup;S-139;group stage
+M-2002-48;2002 FIFA World Cup;S-141;group stage
+M-2002-49;2002 FIFA World Cup;S-143;round of 16
+M-2002-50;2002 FIFA World Cup;S-088;round of 16
+M-2002-51;2002 FIFA World Cup;S-089;round of 16
+M-2002-52;2002 FIFA World Cup;S-145;round of 16
+M-2002-53;2002 FIFA World Cup;S-142;round of 16
+M-2002-54;2002 FIFA World Cup;S-086;round of 16
+M-2002-55;2002 FIFA World Cup;S-087;round of 16
+M-2002-56;2002 FIFA World Cup;S-139;round of 16
+M-2002-57;2002 FIFA World Cup;S-093;quarter-finals
+M-2002-58;2002 FIFA World Cup;S-146;quarter-finals
+M-2002-59;2002 FIFA World Cup;S-140;quarter-finals
+M-2002-60;2002 FIFA World Cup;S-090;quarter-finals
+M-2002-61;2002 FIFA World Cup;S-144;semi-finals
+M-2002-62;2002 FIFA World Cup;S-091;semi-finals
+M-2002-63;2002 FIFA World Cup;S-138;third-place match
+M-2002-64;2002 FIFA World Cup;S-094;final
+M-2006-01;2006 FIFA World Cup;S-064;group stage
+M-2006-02;2006 FIFA World Cup;S-058;group stage
+M-2006-03;2006 FIFA World Cup;S-057;group stage
+M-2006-04;2006 FIFA World Cup;S-055;group stage
+M-2006-05;2006 FIFA World Cup;S-060;group stage
+M-2006-06;2006 FIFA World Cup;S-063;group stage
+M-2006-07;2006 FIFA World Cup;S-066;group stage
+M-2006-08;2006 FIFA World Cup;S-054;group stage
+M-2006-09;2006 FIFA World Cup;S-062;group stage
+M-2006-10;2006 FIFA World Cup;S-058;group stage
+M-2006-11;2006 FIFA World Cup;S-061;group stage
+M-2006-12;2006 FIFA World Cup;S-057;group stage
+M-2006-13;2006 FIFA World Cup;S-067;group stage
+M-2006-14;2006 FIFA World Cup;S-053;group stage
+M-2006-15;2006 FIFA World Cup;S-063;group stage
+M-2006-16;2006 FIFA World Cup;S-064;group stage
+M-2006-17;2006 FIFA World Cup;S-055;group stage
+M-2006-18;2006 FIFA World Cup;S-060;group stage
+M-2006-19;2006 FIFA World Cup;S-066;group stage
+M-2006-20;2006 FIFA World Cup;S-053;group stage
+M-2006-21;2006 FIFA World Cup;S-058;group stage
+M-2006-22;2006 FIFA World Cup;S-067;group stage
+M-2006-23;2006 FIFA World Cup;S-061;group stage
+M-2006-24;2006 FIFA World Cup;S-057;group stage
+M-2006-25;2006 FIFA World Cup;S-054;group stage
+M-2006-26;2006 FIFA World Cup;S-062;group stage
+M-2006-27;2006 FIFA World Cup;S-066;group stage
+M-2006-28;2006 FIFA World Cup;S-064;group stage
+M-2006-29;2006 FIFA World Cup;S-063;group stage
+M-2006-30;2006 FIFA World Cup;S-055;group stage
+M-2006-31;2006 FIFA World Cup;S-060;group stage
+M-2006-32;2006 FIFA World Cup;S-067;group stage
+M-2006-33;2006 FIFA World Cup;S-061;group stage
+M-2006-34;2006 FIFA World Cup;S-053;group stage
+M-2006-35;2006 FIFA World Cup;S-062;group stage
+M-2006-36;2006 FIFA World Cup;S-054;group stage
+M-2006-37;2006 FIFA World Cup;S-063;group stage
+M-2006-38;2006 FIFA World Cup;S-058;group stage
+M-2006-39;2006 FIFA World Cup;S-064;group stage
+M-2006-40;2006 FIFA World Cup;S-057;group stage
+M-2006-41;2006 FIFA World Cup;S-060;group stage
+M-2006-42;2006 FIFA World Cup;S-066;group stage
+M-2006-43;2006 FIFA World Cup;S-067;group stage
+M-2006-44;2006 FIFA World Cup;S-055;group stage
+M-2006-45;2006 FIFA World Cup;S-062;group stage
+M-2006-46;2006 FIFA World Cup;S-053;group stage
+M-2006-47;2006 FIFA World Cup;S-061;group stage
+M-2006-48;2006 FIFA World Cup;S-054;group stage
+M-2006-49;2006 FIFA World Cup;S-064;round of 16
+M-2006-50;2006 FIFA World Cup;S-063;round of 16
+M-2006-51;2006 FIFA World Cup;S-067;round of 16
+M-2006-52;2006 FIFA World Cup;S-066;round of 16
+M-2006-53;2006 FIFA World Cup;S-062;round of 16
+M-2006-54;2006 FIFA World Cup;S-054;round of 16
+M-2006-55;2006 FIFA World Cup;S-055;round of 16
+M-2006-56;2006 FIFA World Cup;S-061;round of 16
+M-2006-57;2006 FIFA World Cup;S-053;quarter-finals
+M-2006-58;2006 FIFA World Cup;S-060;quarter-finals
+M-2006-59;2006 FIFA World Cup;S-058;quarter-finals
+M-2006-60;2006 FIFA World Cup;S-057;quarter-finals
+M-2006-61;2006 FIFA World Cup;S-055;semi-finals
+M-2006-62;2006 FIFA World Cup;S-064;semi-finals
+M-2006-63;2006 FIFA World Cup;S-067;third-place match
+M-2006-64;2006 FIFA World Cup;S-053;final
+M-2010-01;2010 FIFA World Cup;S-131;group stage
+M-2010-02;2010 FIFA World Cup;S-128;group stage
+M-2010-03;2010 FIFA World Cup;S-134;group stage
+M-2010-04;2010 FIFA World Cup;S-130;group stage
+M-2010-05;2010 FIFA World Cup;S-136;group stage
+M-2010-06;2010 FIFA World Cup;S-133;group stage
+M-2010-07;2010 FIFA World Cup;S-135;group stage
+M-2010-08;2010 FIFA World Cup;S-129;group stage
+M-2010-09;2010 FIFA World Cup;S-131;group stage
+M-2010-10;2010 FIFA World Cup;S-127;group stage
+M-2010-11;2010 FIFA World Cup;S-128;group stage
+M-2010-12;2010 FIFA World Cup;S-136;group stage
+M-2010-13;2010 FIFA World Cup;S-134;group stage
+M-2010-14;2010 FIFA World Cup;S-130;group stage
+M-2010-15;2010 FIFA World Cup;S-132;group stage
+M-2010-16;2010 FIFA World Cup;S-129;group stage
+M-2010-17;2010 FIFA World Cup;S-135;group stage
+M-2010-18;2010 FIFA World Cup;S-131;group stage
+M-2010-19;2010 FIFA World Cup;S-127;group stage
+M-2010-20;2010 FIFA World Cup;S-133;group stage
+M-2010-21;2010 FIFA World Cup;S-134;group stage
+M-2010-22;2010 FIFA World Cup;S-130;group stage
+M-2010-23;2010 FIFA World Cup;S-128;group stage
+M-2010-24;2010 FIFA World Cup;S-129;group stage
+M-2010-25;2010 FIFA World Cup;S-136;group stage
+M-2010-26;2010 FIFA World Cup;S-135;group stage
+M-2010-27;2010 FIFA World Cup;S-127;group stage
+M-2010-28;2010 FIFA World Cup;S-132;group stage
+M-2010-29;2010 FIFA World Cup;S-131;group stage
+M-2010-30;2010 FIFA World Cup;S-128;group stage
+M-2010-31;2010 FIFA World Cup;S-134;group stage
+M-2010-32;2010 FIFA World Cup;S-130;group stage
+M-2010-33;2010 FIFA World Cup;S-127;group stage
+M-2010-34;2010 FIFA World Cup;S-136;group stage
+M-2010-35;2010 FIFA World Cup;S-133;group stage
+M-2010-36;2010 FIFA World Cup;S-129;group stage
+M-2010-37;2010 FIFA World Cup;S-134;group stage
+M-2010-38;2010 FIFA World Cup;S-135;group stage
+M-2010-39;2010 FIFA World Cup;S-132;group stage
+M-2010-40;2010 FIFA World Cup;S-131;group stage
+M-2010-41;2010 FIFA World Cup;S-133;group stage
+M-2010-42;2010 FIFA World Cup;S-130;group stage
+M-2010-43;2010 FIFA World Cup;S-128;group stage
+M-2010-44;2010 FIFA World Cup;S-136;group stage
+M-2010-45;2010 FIFA World Cup;S-132;group stage
+M-2010-46;2010 FIFA World Cup;S-129;group stage
+M-2010-47;2010 FIFA World Cup;S-135;group stage
+M-2010-48;2010 FIFA World Cup;S-127;group stage
+M-2010-49;2010 FIFA World Cup;S-134;round of 16
+M-2010-50;2010 FIFA World Cup;S-136;round of 16
+M-2010-51;2010 FIFA World Cup;S-127;round of 16
+M-2010-52;2010 FIFA World Cup;S-131;round of 16
+M-2010-53;2010 FIFA World Cup;S-129;round of 16
+M-2010-54;2010 FIFA World Cup;S-130;round of 16
+M-2010-55;2010 FIFA World Cup;S-135;round of 16
+M-2010-56;2010 FIFA World Cup;S-128;round of 16
+M-2010-57;2010 FIFA World Cup;S-134;quarter-finals
+M-2010-58;2010 FIFA World Cup;S-131;quarter-finals
+M-2010-59;2010 FIFA World Cup;S-128;quarter-finals
+M-2010-60;2010 FIFA World Cup;S-130;quarter-finals
+M-2010-61;2010 FIFA World Cup;S-128;semi-finals
+M-2010-62;2010 FIFA World Cup;S-129;semi-finals
+M-2010-63;2010 FIFA World Cup;S-134;third-place match
+M-2010-64;2010 FIFA World Cup;S-131;final
+M-2014-01;2014 FIFA World Cup;S-022;group stage
+M-2014-02;2014 FIFA World Cup;S-015;group stage
+M-2014-03;2014 FIFA World Cup;S-021;group stage
+M-2014-04;2014 FIFA World Cup;S-010;group stage
+M-2014-05;2014 FIFA World Cup;S-008;group stage
+M-2014-06;2014 FIFA World Cup;S-013;group stage
+M-2014-07;2014 FIFA World Cup;S-014;group stage
+M-2014-08;2014 FIFA World Cup;S-018;group stage
+M-2014-09;2014 FIFA World Cup;S-009;group stage
+M-2014-10;2014 FIFA World Cup;S-016;group stage
+M-2014-11;2014 FIFA World Cup;S-020;group stage
+M-2014-12;2014 FIFA World Cup;S-021;group stage
+M-2014-13;2014 FIFA World Cup;S-011;group stage
+M-2014-14;2014 FIFA World Cup;S-015;group stage
+M-2014-15;2014 FIFA World Cup;S-008;group stage
+M-2014-16;2014 FIFA World Cup;S-013;group stage
+M-2014-17;2014 FIFA World Cup;S-010;group stage
+M-2014-18;2014 FIFA World Cup;S-016;group stage
+M-2014-19;2014 FIFA World Cup;S-020;group stage
+M-2014-20;2014 FIFA World Cup;S-014;group stage
+M-2014-21;2014 FIFA World Cup;S-009;group stage
+M-2014-22;2014 FIFA World Cup;S-022;group stage
+M-2014-23;2014 FIFA World Cup;S-015;group stage
+M-2014-24;2014 FIFA World Cup;S-018;group stage
+M-2014-25;2014 FIFA World Cup;S-021;group stage
+M-2014-26;2014 FIFA World Cup;S-011;group stage
+M-2014-27;2014 FIFA World Cup;S-008;group stage
+M-2014-28;2014 FIFA World Cup;S-013;group stage
+M-2014-29;2014 FIFA World Cup;S-010;group stage
+M-2014-30;2014 FIFA World Cup;S-020;group stage
+M-2014-31;2014 FIFA World Cup;S-016;group stage
+M-2014-32;2014 FIFA World Cup;S-014;group stage
+M-2014-33;2014 FIFA World Cup;S-011;group stage
+M-2014-34;2014 FIFA World Cup;S-022;group stage
+M-2014-35;2014 FIFA World Cup;S-009;group stage
+M-2014-36;2014 FIFA World Cup;S-018;group stage
+M-2014-37;2014 FIFA World Cup;S-008;group stage
+M-2014-38;2014 FIFA World Cup;S-015;group stage
+M-2014-39;2014 FIFA World Cup;S-010;group stage
+M-2014-40;2014 FIFA World Cup;S-013;group stage
+M-2014-41;2014 FIFA World Cup;S-021;group stage
+M-2014-42;2014 FIFA World Cup;S-016;group stage
+M-2014-43;2014 FIFA World Cup;S-014;group stage
+M-2014-44;2014 FIFA World Cup;S-020;group stage
+M-2014-45;2014 FIFA World Cup;S-009;group stage
+M-2014-46;2014 FIFA World Cup;S-018;group stage
+M-2014-47;2014 FIFA World Cup;S-011;group stage
+M-2014-48;2014 FIFA World Cup;S-022;group stage
+M-2014-49;2014 FIFA World Cup;S-008;round of 16
+M-2014-50;2014 FIFA World Cup;S-020;round of 16
+M-2014-51;2014 FIFA World Cup;S-013;round of 16
+M-2014-52;2014 FIFA World Cup;S-018;round of 16
+M-2014-53;2014 FIFA World Cup;S-009;round of 16
+M-2014-54;2014 FIFA World Cup;S-016;round of 16
+M-2014-55;2014 FIFA World Cup;S-022;round of 16
+M-2014-56;2014 FIFA World Cup;S-021;round of 16
+M-2014-57;2014 FIFA World Cup;S-020;quarter-finals
+M-2014-58;2014 FIFA World Cup;S-013;quarter-finals
+M-2014-59;2014 FIFA World Cup;S-009;quarter-finals
+M-2014-60;2014 FIFA World Cup;S-021;quarter-finals
+M-2014-61;2014 FIFA World Cup;S-008;semi-finals
+M-2014-62;2014 FIFA World Cup;S-022;semi-finals
+M-2014-63;2014 FIFA World Cup;S-009;third-place match
+M-2014-64;2014 FIFA World Cup;S-020;final
+M-2018-01;2018 FIFA World Cup;S-117;group stage
+M-2018-02;2018 FIFA World Cup;S-126;group stage
+M-2018-03;2018 FIFA World Cup;S-121;group stage
+M-2018-04;2018 FIFA World Cup;S-124;group stage
+M-2018-05;2018 FIFA World Cup;S-116;group stage
+M-2018-06;2018 FIFA World Cup;S-118;group stage
+M-2018-07;2018 FIFA World Cup;S-123;group stage
+M-2018-08;2018 FIFA World Cup;S-115;group stage
+M-2018-09;2018 FIFA World Cup;S-122;group stage
+M-2018-10;2018 FIFA World Cup;S-117;group stage
+M-2018-11;2018 FIFA World Cup;S-120;group stage
+M-2018-12;2018 FIFA World Cup;S-119;group stage
+M-2018-13;2018 FIFA World Cup;S-124;group stage
+M-2018-14;2018 FIFA World Cup;S-125;group stage
+M-2018-15;2018 FIFA World Cup;S-123;group stage
+M-2018-16;2018 FIFA World Cup;S-118;group stage
+M-2018-17;2018 FIFA World Cup;S-121;group stage
+M-2018-18;2018 FIFA World Cup;S-117;group stage
+M-2018-19;2018 FIFA World Cup;S-120;group stage
+M-2018-20;2018 FIFA World Cup;S-116;group stage
+M-2018-21;2018 FIFA World Cup;S-122;group stage
+M-2018-22;2018 FIFA World Cup;S-126;group stage
+M-2018-23;2018 FIFA World Cup;S-119;group stage
+M-2018-24;2018 FIFA World Cup;S-121;group stage
+M-2018-25;2018 FIFA World Cup;S-125;group stage
+M-2018-26;2018 FIFA World Cup;S-115;group stage
+M-2018-27;2018 FIFA World Cup;S-118;group stage
+M-2018-28;2018 FIFA World Cup;S-120;group stage
+M-2018-29;2018 FIFA World Cup;S-124;group stage
+M-2018-30;2018 FIFA World Cup;S-119;group stage
+M-2018-31;2018 FIFA World Cup;S-126;group stage
+M-2018-32;2018 FIFA World Cup;S-116;group stage
+M-2018-33;2018 FIFA World Cup;S-125;group stage
+M-2018-34;2018 FIFA World Cup;S-122;group stage
+M-2018-35;2018 FIFA World Cup;S-115;group stage
+M-2018-36;2018 FIFA World Cup;S-123;group stage
+M-2018-37;2018 FIFA World Cup;S-124;group stage
+M-2018-38;2018 FIFA World Cup;S-117;group stage
+M-2018-39;2018 FIFA World Cup;S-120;group stage
+M-2018-40;2018 FIFA World Cup;S-121;group stage
+M-2018-41;2018 FIFA World Cup;S-116;group stage
+M-2018-42;2018 FIFA World Cup;S-126;group stage
+M-2018-43;2018 FIFA World Cup;S-118;group stage
+M-2018-44;2018 FIFA World Cup;S-119;group stage
+M-2018-45;2018 FIFA World Cup;S-125;group stage
+M-2018-46;2018 FIFA World Cup;S-122;group stage
+M-2018-47;2018 FIFA World Cup;S-115;group stage
+M-2018-48;2018 FIFA World Cup;S-123;group stage
+M-2018-49;2018 FIFA World Cup;S-116;round of 16
+M-2018-50;2018 FIFA World Cup;S-124;round of 16
+M-2018-51;2018 FIFA World Cup;S-117;round of 16
+M-2018-52;2018 FIFA World Cup;S-119;round of 16
+M-2018-53;2018 FIFA World Cup;S-122;round of 16
+M-2018-54;2018 FIFA World Cup;S-120;round of 16
+M-2018-55;2018 FIFA World Cup;S-121;round of 16
+M-2018-56;2018 FIFA World Cup;S-118;round of 16
+M-2018-57;2018 FIFA World Cup;S-119;quarter-finals
+M-2018-58;2018 FIFA World Cup;S-116;quarter-finals
+M-2018-59;2018 FIFA World Cup;S-122;quarter-finals
+M-2018-60;2018 FIFA World Cup;S-124;quarter-finals
+M-2018-61;2018 FIFA World Cup;S-121;semi-finals
+M-2018-62;2018 FIFA World Cup;S-117;semi-finals
+M-2018-63;2018 FIFA World Cup;S-121;third-place match
+M-2018-64;2018 FIFA World Cup;S-117;final
+M-2022-01;2022 FIFA World Cup;S-107;group stage
+M-2022-02;2022 FIFA World Cup;S-110;group stage
+M-2022-03;2022 FIFA World Cup;S-112;group stage
+M-2022-04;2022 FIFA World Cup;S-108;group stage
+M-2022-05;2022 FIFA World Cup;S-114;group stage
+M-2022-06;2022 FIFA World Cup;S-109;group stage
+M-2022-07;2022 FIFA World Cup;S-113;group stage
+M-2022-08;2022 FIFA World Cup;S-111;group stage
+M-2022-09;2022 FIFA World Cup;S-107;group stage
+M-2022-10;2022 FIFA World Cup;S-110;group stage
+M-2022-11;2022 FIFA World Cup;S-112;group stage
+M-2022-12;2022 FIFA World Cup;S-108;group stage
+M-2022-13;2022 FIFA World Cup;S-111;group stage
+M-2022-14;2022 FIFA World Cup;S-109;group stage
+M-2022-15;2022 FIFA World Cup;S-113;group stage
+M-2022-16;2022 FIFA World Cup;S-114;group stage
+M-2022-17;2022 FIFA World Cup;S-108;group stage
+M-2022-18;2022 FIFA World Cup;S-112;group stage
+M-2022-19;2022 FIFA World Cup;S-110;group stage
+M-2022-20;2022 FIFA World Cup;S-107;group stage
+M-2022-21;2022 FIFA World Cup;S-111;group stage
+M-2022-22;2022 FIFA World Cup;S-109;group stage
+M-2022-23;2022 FIFA World Cup;S-113;group stage
+M-2022-24;2022 FIFA World Cup;S-114;group stage
+M-2022-25;2022 FIFA World Cup;S-108;group stage
+M-2022-26;2022 FIFA World Cup;S-112;group stage
+M-2022-27;2022 FIFA World Cup;S-110;group stage
+M-2022-28;2022 FIFA World Cup;S-107;group stage
+M-2022-29;2022 FIFA World Cup;S-111;group stage
+M-2022-30;2022 FIFA World Cup;S-109;group stage
+M-2022-31;2022 FIFA World Cup;S-113;group stage
+M-2022-32;2022 FIFA World Cup;S-114;group stage
+M-2022-33;2022 FIFA World Cup;S-110;group stage
+M-2022-34;2022 FIFA World Cup;S-107;group stage
+M-2022-35;2022 FIFA World Cup;S-112;group stage
+M-2022-36;2022 FIFA World Cup;S-108;group stage
+M-2022-37;2022 FIFA World Cup;S-111;group stage
+M-2022-38;2022 FIFA World Cup;S-109;group stage
+M-2022-39;2022 FIFA World Cup;S-113;group stage
+M-2022-40;2022 FIFA World Cup;S-114;group stage
+M-2022-41;2022 FIFA World Cup;S-112;group stage
+M-2022-42;2022 FIFA World Cup;S-108;group stage
+M-2022-43;2022 FIFA World Cup;S-107;group stage
+M-2022-44;2022 FIFA World Cup;S-110;group stage
+M-2022-45;2022 FIFA World Cup;S-111;group stage
+M-2022-46;2022 FIFA World Cup;S-109;group stage
+M-2022-47;2022 FIFA World Cup;S-114;group stage
+M-2022-48;2022 FIFA World Cup;S-113;group stage
+M-2022-49;2022 FIFA World Cup;S-110;round of 16
+M-2022-50;2022 FIFA World Cup;S-108;round of 16
+M-2022-51;2022 FIFA World Cup;S-112;round of 16
+M-2022-52;2022 FIFA World Cup;S-107;round of 16
+M-2022-53;2022 FIFA World Cup;S-111;round of 16
+M-2022-54;2022 FIFA World Cup;S-113;round of 16
+M-2022-55;2022 FIFA World Cup;S-109;round of 16
+M-2022-56;2022 FIFA World Cup;S-114;round of 16
+M-2022-57;2022 FIFA World Cup;S-109;quarter-finals
+M-2022-58;2022 FIFA World Cup;S-114;quarter-finals
+M-2022-59;2022 FIFA World Cup;S-112;quarter-finals
+M-2022-60;2022 FIFA World Cup;S-107;quarter-finals
+M-2022-61;2022 FIFA World Cup;S-114;semi-finals
+M-2022-62;2022 FIFA World Cup;S-107;semi-finals
+M-2022-63;2022 FIFA World Cup;S-110;third-place match
+M-2022-64;2022 FIFA World Cup;S-114;final

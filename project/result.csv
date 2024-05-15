@@ -1,0 +1,965 @@
+﻿Match_Id;Winner;Home_Team_Score;Away_Team_Score
+M-1930-01;home team win;4;1
+M-1930-02;home team win;3;0
+M-1930-03;home team win;2;1
+M-1930-04;home team win;3;1
+M-1930-05;home team win;1;0
+M-1930-06;home team win;3;0
+M-1930-07;home team win;4;0
+M-1930-08;home team win;3;0
+M-1930-09;home team win;1;0
+M-1930-10;home team win;1;0
+M-1930-11;home team win;6;3
+M-1930-12;home team win;4;0
+M-1930-13;home team win;1;0
+M-1930-14;home team win;4;0
+M-1930-15;home team win;3;1
+M-1930-16;home team win;6;1
+M-1930-17;home team win;6;1
+M-1930-18;home team win;4;2
+M-1934-01;home team win;3;2
+M-1934-02;home team win;2;1
+M-1934-03;home team win;5;2
+M-1934-04;home team win;4;2
+M-1934-05;home team win;7;1
+M-1934-06;home team win;3;1
+M-1934-07;home team win;3;2
+M-1934-08;home team win;3;2
+M-1934-09;home team win;2;1
+M-1934-10;home team win;3;2
+M-1934-11;home team win;2;1
+M-1934-12;draw;1;1
+M-1934-13;home team win;1;0
+M-1934-14;home team win;3;1
+M-1934-15;home team win;1;0
+M-1934-16;home team win;3;2
+M-1934-17;home team win;2;1
+M-1938-01;draw;1;1
+M-1938-02;draw;3;3
+M-1938-03;home team win;3;1
+M-1938-04;home team win;6;0
+M-1938-05;home team win;2;1
+M-1938-06;home team win;6;5
+M-1938-07;home team win;3;0
+M-1938-08;home team win;2;1
+M-1938-09;home team win;4;2
+M-1938-10;draw;1;1
+M-1938-11;home team win;2;0
+M-1938-12;home team win;3;1
+M-1938-13;home team win;8;0
+M-1938-14;home team win;2;1
+M-1938-15;home team win;5;1
+M-1938-16;home team win;2;1
+M-1938-17;home team win;4;2
+M-1938-18;home team win;4;2
+M-1950-01;home team win;4;0
+M-1950-02;home team win;3;0
+M-1950-03;home team win;2;0
+M-1950-04;home team win;3;1
+M-1950-05;home team win;3;2
+M-1950-06;draw;2;2
+M-1950-07;home team win;4;1
+M-1950-08;home team win;2;0
+M-1950-09;home team win;1;0
+M-1950-10;draw;2;2
+M-1950-11;home team win;2;0
+M-1950-12;home team win;5;2
+M-1950-13;home team win;1;0
+M-1950-14;home team win;2;0
+M-1950-15;home team win;8;0
+M-1950-16;home team win;2;1
+M-1950-17;home team win;7;1
+M-1950-18;draw;2;2
+M-1950-19;home team win;6;1
+M-1950-20;home team win;3;2
+M-1950-21;home team win;3;1
+M-1950-22;home team win;2;1
+M-1954-01;home team win;5;0
+M-1954-02;home team win;1;0
+M-1954-03;home team win;1;0
+M-1954-04;home team win;2;0
+M-1954-05;home team win;2;1
+M-1954-06;home team win;9;0
+M-1954-07;home team win;4;1
+M-1954-08;draw;4;4
+M-1954-09;home team win;7;0
+M-1954-10;draw;1;1
+M-1954-11;home team win;5;0
+M-1954-12;home team win;3;2
+M-1954-13;home team win;8;3
+M-1954-14;home team win;7;0
+M-1954-15;home team win;4;1
+M-1954-16;home team win;2;0
+M-1954-17;home team win;7;2
+M-1954-18;home team win;4;1
+M-1954-19;home team win;7;5
+M-1954-20;home team win;4;2
+M-1954-21;home team win;4;2
+M-1954-22;home team win;2;0
+M-1954-23;home team win;4;2
+M-1954-24;home team win;6;1
+M-1954-25;home team win;3;1
+M-1954-26;home team win;3;2
+M-1958-01;home team win;3;0
+M-1958-02;away team win;1;3
+M-1958-03;home team win;1;0
+M-1958-04;home team win;7;3
+M-1958-05;draw;1;1
+M-1958-06;draw;1;1
+M-1958-07;home team win;3;0
+M-1958-08;draw;2;2
+M-1958-09;home team win;3;1
+M-1958-10;draw;2;2
+M-1958-11;home team win;3;2
+M-1958-12;home team win;3;2
+M-1958-13;draw;1;1
+M-1958-14;draw;0;0
+M-1958-15;home team win;2;0
+M-1958-16;home team win;2;1
+M-1958-17;draw;0;0
+M-1958-18;home team win;6;1
+M-1958-19;draw;2;2
+M-1958-20;home team win;2;1
+M-1958-21;draw;3;3
+M-1958-22;home team win;4;0
+M-1958-23;home team win;2;0
+M-1958-24;draw;2;2
+M-1958-25;home team win;2;1
+M-1958-26;home team win;2;1
+M-1958-27;home team win;1;0
+M-1958-28;home team win;1;0
+M-1958-29;home team win;4;0
+M-1958-30;home team win;2;0
+M-1958-31;home team win;1;0
+M-1958-32;home team win;5;2
+M-1958-33;home team win;3;1
+M-1958-34;home team win;6;3
+M-1958-35;home team win;5;2
+M-1962-01;home team win;2;1
+M-1962-02;home team win;3;1
+M-1962-03;home team win;2;0
+M-1962-04;home team win;1;0
+M-1962-05;home team win;2;0
+M-1962-06;draw;0;0
+M-1962-07;home team win;1;0
+M-1962-08;home team win;2;1
+M-1962-09;home team win;3;1
+M-1962-10;home team win;2;0
+M-1962-11;draw;0;0
+M-1962-12;home team win;3;1
+M-1962-13;draw;4;4
+M-1962-14;home team win;2;1
+M-1962-15;home team win;1;0
+M-1962-16;home team win;6;1
+M-1962-17;home team win;2;1
+M-1962-18;home team win;2;0
+M-1962-19;home team win;2;1
+M-1962-20;draw;0;0
+M-1962-21;home team win;5;0
+M-1962-22;home team win;3;0
+M-1962-23;home team win;3;1
+M-1962-24;draw;0;0
+M-1962-25;home team win;3;1
+M-1962-26;home team win;2;1
+M-1962-27;home team win;1;0
+M-1962-28;home team win;1;0
+M-1962-29;home team win;4;2
+M-1962-30;home team win;3;1
+M-1962-31;home team win;1;0
+M-1962-32;home team win;3;1
+M-1966-01;draw;0;0
+M-1966-02;home team win;5;0
+M-1966-03;home team win;2;0
+M-1966-04;home team win;3;0
+M-1966-05;draw;1;1
+M-1966-06;home team win;2;1
+M-1966-07;home team win;3;1
+M-1966-08;home team win;2;0
+M-1966-09;home team win;2;1
+M-1966-10;home team win;2;1
+M-1966-11;home team win;3;1
+M-1966-12;draw;1;1
+M-1966-13;draw;0;0
+M-1966-14;home team win;3;0
+M-1966-15;home team win;1;0
+M-1966-16;home team win;2;0
+M-1966-17;draw;0;0
+M-1966-18;home team win;2;0
+M-1966-19;home team win;3;1
+M-1966-20;home team win;1;0
+M-1966-21;home team win;2;0
+M-1966-22;home team win;2;1
+M-1966-23;home team win;3;1
+M-1966-24;home team win;2;1
+M-1966-25;home team win;1;0
+M-1966-26;home team win;5;3
+M-1966-27;home team win;2;1
+M-1966-28;home team win;4;0
+M-1966-29;home team win;2;1
+M-1966-30;home team win;2;1
+M-1966-31;home team win;2;1
+M-1966-32;home team win;4;2
+M-1970-01;draw;0;0
+M-1970-02;home team win;2;0
+M-1970-03;home team win;1;0
+M-1970-04;home team win;3;2
+M-1970-05;home team win;3;0
+M-1970-06;home team win;1;0
+M-1970-07;home team win;4;1
+M-1970-08;home team win;2;1
+M-1970-09;home team win;4;1
+M-1970-10;draw;0;0
+M-1970-11;home team win;2;1
+M-1970-12;home team win;3;0
+M-1970-13;home team win;4;0
+M-1970-14;draw;1;1
+M-1970-15;home team win;1;0
+M-1970-16;home team win;5;2
+M-1970-17;home team win;2;0
+M-1970-18;home team win;1;0
+M-1970-19;home team win;3;2
+M-1970-20;home team win;3;1
+M-1970-21;home team win;1;0
+M-1970-22;draw;0;0
+M-1970-23;home team win;1;0
+M-1970-24;draw;1;1
+M-1970-25;home team win;4;2
+M-1970-26;home team win;4;1
+M-1970-27;away team win;0;1
+M-1970-28;home team win;3;2
+M-1970-29;home team win;3;1
+M-1970-30;home team win;4;3
+M-1970-31;home team win;1;0
+M-1970-32;home team win;4;1
+M-1974-01;draw;0;0
+M-1974-02;home team win;1;0
+M-1974-03;home team win;2;0
+M-1974-04;away team win;0;2
+M-1974-05;draw;0;0
+M-1974-06;away team win;0;2
+M-1974-07;home team win;3;1
+M-1974-08;home team win;3;2
+M-1974-09;away team win;0;3
+M-1974-10;draw;1;1
+M-1974-11;draw;0;0
+M-1974-12;home team win;9;0
+M-1974-13;draw;1;1
+M-1974-14;draw;0;0
+M-1974-15;draw;1;1
+M-1974-16;away team win;0;7
+M-1974-17;draw;0;0
+M-1974-18;draw;1;1
+M-1974-19;away team win;0;3
+M-1974-20;home team win;1;0
+M-1974-21;away team win;1;4
+M-1974-22;home team win;3;0
+M-1974-23;home team win;4;1
+M-1974-24;home team win;2;1
+M-1974-25;away team win;0;2
+M-1974-26;home team win;1;0
+M-1974-27;home team win;4;0
+M-1974-28;away team win;0;1
+M-1974-29;away team win;1;2
+M-1974-30;away team win;0;2
+M-1974-31;home team win;2;1
+M-1974-32;home team win;4;2
+M-1974-33;away team win;0;1
+M-1974-34;draw;1;1
+M-1974-35;home team win;2;0
+M-1974-36;home team win;2;1
+M-1974-37;away team win;0;1
+M-1974-38;away team win;1;2
+M-1978-01;draw;0;0
+M-1978-02;home team win;2;1
+M-1978-03;home team win;3;1
+M-1978-04;home team win;2;1
+M-1978-05;home team win;2;1
+M-1978-06;draw;1;1
+M-1978-07;home team win;3;0
+M-1978-08;home team win;3;1
+M-1978-09;home team win;3;1
+M-1978-10;home team win;1;0
+M-1978-11;home team win;6;0
+M-1978-12;home team win;2;1
+M-1978-13;home team win;1;0
+M-1978-14;draw;0;0
+M-1978-15;draw;0;0
+M-1978-16;draw;1;1
+M-1978-17;home team win;3;1
+M-1978-18;home team win;3;1
+M-1978-19;draw;0;0
+M-1978-20;away team win;0;1
+M-1978-21;home team win;1;0
+M-1978-22;home team win;1;0
+M-1978-23;home team win;4;1
+M-1978-24;home team win;3;2
+M-1978-25;away team win;1;5
+M-1978-26;draw;0;0
+M-1978-27;home team win;3;0
+M-1978-28;home team win;2;0
+M-1978-29;away team win;0;1
+M-1978-30;home team win;1;0
+M-1978-31;draw;2;2
+M-1978-32;draw;0;0
+M-1978-33;home team win;3;2
+M-1978-34;away team win;1;2
+M-1978-35;home team win;3;1
+M-1978-36;home team win;6;0
+M-1978-37;home team win;2;1
+M-1978-38;home team win;3;1
+M-1982-01;away team win;0;1
+M-1982-02;draw;0;0
+M-1982-03;home team win;2;1
+M-1982-04;draw;0;0
+M-1982-05;home team win;10;1
+M-1982-06;home team win;5;2
+M-1982-07;away team win;1;2
+M-1982-08;home team win;3;1
+M-1982-09;draw;1;1
+M-1982-10;away team win;0;1
+M-1982-11;draw;1;1
+M-1982-12;draw;0;0
+M-1982-13;draw;1;1
+M-1982-14;home team win;4;1
+M-1982-15;home team win;4;1
+M-1982-16;draw;0;0
+M-1982-17;home team win;1;0
+M-1982-18;home team win;3;0
+M-1982-19;home team win;4;1
+M-1982-20;home team win;2;0
+M-1982-21;home team win;2;1
+M-1982-22;away team win;0;2
+M-1982-23;home team win;4;1
+M-1982-24;draw;1;1
+M-1982-25;home team win;5;1
+M-1982-26;draw;1;1
+M-1982-27;draw;2;2
+M-1982-28;draw;1;1
+M-1982-29;home team win;2;0
+M-1982-30;home team win;4;0
+M-1982-31;home team win;3;2
+M-1982-32;draw;1;1
+M-1982-33;away team win;0;1
+M-1982-34;home team win;1;0
+M-1982-35;home team win;1;0
+M-1982-36;away team win;0;1
+M-1982-37;away team win;0;1
+M-1982-38;home team win;3;0
+M-1982-39;home team win;2;1
+M-1982-40;draw;0;0
+M-1982-41;draw;2;2
+M-1982-42;away team win;0;1
+M-1982-43;away team win;1;3
+M-1982-44;home team win;2;1
+M-1982-45;home team win;4;1
+M-1982-46;draw;0;0
+M-1982-47;home team win;3;2
+M-1982-48;draw;0;0
+M-1982-49;away team win;0;2
+M-1982-50;home team win;3;3
+M-1982-51;home team win;3;2
+M-1982-52;home team win;3;1
+M-1986-01;draw;1;1
+M-1986-02;away team win;0;1
+M-1986-03;away team win;0;1
+M-1986-04;home team win;3;1
+M-1986-05;home team win;6;0
+M-1986-06;draw;0;0
+M-1986-07;away team win;1;2
+M-1986-08;draw;1;1
+M-1986-09;home team win;1;0
+M-1986-10;home team win;1;0
+M-1986-11;draw;1;1
+M-1986-12;away team win;0;1
+M-1986-13;draw;1;1
+M-1986-14;draw;1;1
+M-1986-15;draw;1;1
+M-1986-16;home team win;2;0
+M-1986-17;home team win;1;0
+M-1986-18;draw;0;0
+M-1986-19;draw;1;1
+M-1986-20;away team win;1;2
+M-1986-21;home team win;1;0
+M-1986-22;away team win;1;2
+M-1986-23;home team win;2;1
+M-1986-24;home team win;6;1
+M-1986-25;away team win;0;3
+M-1986-26;home team win;2;0
+M-1986-27;home team win;2;0
+M-1986-28;away team win;2;3
+M-1986-29;away team win;0;1
+M-1986-30;draw;2;2
+M-1986-31;home team win;3;0
+M-1986-32;away team win;1;3
+M-1986-33;away team win;0;3
+M-1986-34;away team win;0;3
+M-1986-35;home team win;2;0
+M-1986-36;draw;0;0
+M-1986-37;home team win;2;0
+M-1986-38;away team win;3;4
+M-1986-39;home team win;4;0
+M-1986-40;home team win;1;0
+M-1986-41;away team win;0;2
+M-1986-42;away team win;0;1
+M-1986-43;home team win;3;0
+M-1986-44;away team win;1;5
+M-1986-45;away team win;1;1
+M-1986-46;home team win;0;0
+M-1986-47;home team win;2;1
+M-1986-48;away team win;1;1
+M-1986-49;away team win;0;2
+M-1986-50;home team win;2;0
+M-1986-51;away team win;2;4
+M-1986-52;home team win;3;2
+M-1990-01;away team win;0;1
+M-1990-02;away team win;0;2
+M-1990-03;away team win;0;2
+M-1990-04;home team win;1;0
+M-1990-05;away team win;1;5
+M-1990-06;home team win;2;1
+M-1990-07;home team win;4;1
+M-1990-08;home team win;1;0
+M-1990-09;draw;1;1
+M-1990-10;home team win;2;0
+M-1990-11;draw;1;1
+M-1990-12;draw;0;0
+M-1990-13;home team win;2;0
+M-1990-14;home team win;2;1
+M-1990-15;home team win;1;0
+M-1990-16;home team win;1;0
+M-1990-17;away team win;0;1
+M-1990-18;home team win;5;1
+M-1990-19;home team win;1;0
+M-1990-20;away team win;1;2
+M-1990-21;draw;0;0
+M-1990-22;draw;0;0
+M-1990-23;home team win;3;1
+M-1990-24;away team win;1;3
+M-1990-25;draw;1;1
+M-1990-26;away team win;0;4
+M-1990-27;draw;1;1
+M-1990-28;home team win;4;1
+M-1990-29;home team win;2;1
+M-1990-30;home team win;2;0
+M-1990-31;home team win;1;0
+M-1990-32;away team win;1;2
+M-1990-33;away team win;1;2
+M-1990-34;away team win;0;1
+M-1990-35;home team win;1;0
+M-1990-36;draw;1;1
+M-1990-37;home team win;2;1
+M-1990-38;home team win;4;1
+M-1990-39;away team win;0;1
+M-1990-40;home team win;2;1
+M-1990-41;home team win;0;0
+M-1990-42;home team win;2;0
+M-1990-43;away team win;1;2
+M-1990-44;home team win;1;0
+M-1990-45;home team win;0;0
+M-1990-46;away team win;0;1
+M-1990-47;away team win;0;1
+M-1990-48;away team win;2;3
+M-1990-49;home team win;1;1
+M-1990-50;home team win;1;1
+M-1990-51;home team win;2;1
+M-1990-52;home team win;1;0
+M-1994-01;home team win;1;0
+M-1994-02;draw;2;2
+M-1994-03;draw;1;1
+M-1994-04;away team win;0;1
+M-1994-05;away team win;1;3
+M-1994-06;home team win;1;0
+M-1994-07;home team win;1;0
+M-1994-08;draw;2;2
+M-1994-09;home team win;2;0
+M-1994-10;home team win;2;1
+M-1994-11;home team win;4;0
+M-1994-12;draw;1;1
+M-1994-13;home team win;3;0
+M-1994-14;away team win;1;4
+M-1994-15;home team win;2;1
+M-1994-16;home team win;1;0
+M-1994-17;draw;0;0
+M-1994-18;home team win;2;1
+M-1994-19;home team win;3;0
+M-1994-20;home team win;3;1
+M-1994-21;home team win;1;0
+M-1994-22;home team win;2;1
+M-1994-23;home team win;2;1
+M-1994-24;home team win;4;0
+M-1994-25;away team win;0;2
+M-1994-26;away team win;0;1
+M-1994-27;away team win;1;3
+M-1994-28;home team win;3;2
+M-1994-29;draw;1;1
+M-1994-30;draw;0;0
+M-1994-31;home team win;6;1
+M-1994-32;draw;1;1
+M-1994-33;away team win;0;1
+M-1994-34;away team win;1;2
+M-1994-35;away team win;0;2
+M-1994-36;away team win;0;2
+M-1994-37;home team win;3;2
+M-1994-38;home team win;3;0
+M-1994-39;away team win;1;3
+M-1994-40;home team win;3;2
+M-1994-41;home team win;2;0
+M-1994-42;home team win;1;0
+M-1994-43;away team win;1;2
+M-1994-44;away team win;1;1
+M-1994-45;home team win;2;1
+M-1994-46;away team win;2;3
+M-1994-47;home team win;2;1
+M-1994-48;away team win;2;2
+M-1994-49;away team win;1;2
+M-1994-50;away team win;0;1
+M-1994-51;home team win;4;0
+M-1994-52;home team win;0;0
+M-1998-01;home team win;2;1
+M-1998-02;draw;2;2
+M-1998-03;draw;2;2
+M-1998-04;draw;1;1
+M-1998-05;draw;0;0
+M-1998-06;away team win;0;1
+M-1998-07;home team win;3;0
+M-1998-08;away team win;2;3
+M-1998-09;away team win;1;3
+M-1998-10;draw;0;0
+M-1998-11;home team win;1;0
+M-1998-12;home team win;1;0
+M-1998-13;away team win;1;3
+M-1998-14;home team win;2;0
+M-1998-15;home team win;1;0
+M-1998-16;home team win;2;0
+M-1998-17;draw;1;1
+M-1998-18;home team win;3;0
+M-1998-19;draw;1;1
+M-1998-20;home team win;3;0
+M-1998-21;draw;1;1
+M-1998-22;home team win;4;0
+M-1998-23;home team win;1;0
+M-1998-24;draw;0;0
+M-1998-25;away team win;0;1
+M-1998-26;draw;2;2
+M-1998-27;home team win;5;0
+M-1998-28;draw;2;2
+M-1998-29;home team win;5;0
+M-1998-30;away team win;1;2
+M-1998-31;home team win;1;0
+M-1998-32;home team win;2;1
+M-1998-33;draw;1;1
+M-1998-34;home team win;2;1
+M-1998-35;away team win;1;2
+M-1998-36;away team win;0;3
+M-1998-37;home team win;2;1
+M-1998-38;draw;2;2
+M-1998-39;away team win;1;3
+M-1998-40;home team win;6;1
+M-1998-41;draw;1;1
+M-1998-42;draw;2;2
+M-1998-43;home team win;2;0
+M-1998-44;away team win;0;1
+M-1998-45;home team win;1;0
+M-1998-46;away team win;1;2
+M-1998-47;away team win;0;2
+M-1998-48;draw;1;1
+M-1998-49;home team win;1;0
+M-1998-50;home team win;4;1
+M-1998-51;home team win;1;0
+M-1998-52;away team win;1;4
+M-1998-53;home team win;2;1
+M-1998-54;home team win;2;1
+M-1998-55;away team win;0;1
+M-1998-56;home team win;2;2
+M-1998-57;away team win;0;0
+M-1998-58;home team win;3;2
+M-1998-59;home team win;2;1
+M-1998-60;away team win;0;3
+M-1998-61;home team win;1;1
+M-1998-62;home team win;2;1
+M-1998-63;away team win;1;2
+M-1998-64;away team win;0;3
+M-2002-01;away team win;0;1
+M-2002-02;draw;1;1
+M-2002-03;away team win;1;2
+M-2002-04;home team win;8;0
+M-2002-05;home team win;1;0
+M-2002-06;draw;2;2
+M-2002-07;draw;1;1
+M-2002-08;home team win;3;1
+M-2002-09;away team win;0;1
+M-2002-10;home team win;2;1
+M-2002-11;home team win;2;0
+M-2002-12;away team win;0;2
+M-2002-13;draw;2;2
+M-2002-14;home team win;2;0
+M-2002-15;home team win;2;0
+M-2002-16;home team win;3;2
+M-2002-17;draw;1;1
+M-2002-18;draw;1;1
+M-2002-19;home team win;1;0
+M-2002-20;draw;0;0
+M-2002-21;home team win;2;1
+M-2002-22;home team win;3;1
+M-2002-23;away team win;0;1
+M-2002-24;home team win;1;0
+M-2002-25;away team win;1;2
+M-2002-26;home team win;4;0
+M-2002-27;home team win;2;1
+M-2002-28;draw;1;1
+M-2002-29;home team win;1;0
+M-2002-30;draw;1;1
+M-2002-31;draw;1;1
+M-2002-32;home team win;4;0
+M-2002-33;home team win;2;0
+M-2002-34;draw;3;3
+M-2002-35;away team win;0;2
+M-2002-36;away team win;0;3
+M-2002-37;draw;0;0
+M-2002-38;draw;1;1
+M-2002-39;away team win;1;3
+M-2002-40;away team win;2;3
+M-2002-41;away team win;2;5
+M-2002-42;home team win;3;0
+M-2002-43;home team win;1;0
+M-2002-44;draw;1;1
+M-2002-45;home team win;3;2
+M-2002-46;away team win;0;2
+M-2002-47;home team win;3;1
+M-2002-48;away team win;0;1
+M-2002-49;home team win;1;0
+M-2002-50;away team win;0;3
+M-2002-51;away team win;1;2
+M-2002-52;home team win;1;1
+M-2002-53;away team win;0;2
+M-2002-54;home team win;2;0
+M-2002-55;away team win;0;1
+M-2002-56;home team win;2;1
+M-2002-57;away team win;1;2
+M-2002-58;home team win;1;0
+M-2002-59;away team win;0;0
+M-2002-60;away team win;0;1
+M-2002-61;home team win;1;0
+M-2002-62;home team win;1;0
+M-2002-63;away team win;2;3
+M-2002-64;away team win;0;2
+M-2006-01;home team win;4;2
+M-2006-02;away team win;0;2
+M-2006-03;home team win;1;0
+M-2006-04;draw;0;0
+M-2006-05;home team win;2;1
+M-2006-06;away team win;0;1
+M-2006-07;home team win;3;1
+M-2006-08;away team win;0;1
+M-2006-09;home team win;3;1
+M-2006-10;away team win;0;3
+M-2006-11;home team win;2;0
+M-2006-12;home team win;2;1
+M-2006-13;draw;0;0
+M-2006-14;home team win;1;0
+M-2006-15;home team win;4;0
+M-2006-16;draw;2;2
+M-2006-17;home team win;1;0
+M-2006-18;home team win;3;0
+M-2006-19;home team win;2;0
+M-2006-20;home team win;1;0
+M-2006-21;home team win;6;0
+M-2006-22;home team win;2;1
+M-2006-23;draw;0;0
+M-2006-24;home team win;2;0
+M-2006-25;away team win;0;2
+M-2006-26;draw;1;1
+M-2006-27;draw;0;0
+M-2006-28;home team win;2;0
+M-2006-29;draw;1;1
+M-2006-30;away team win;0;2
+M-2006-31;away team win;0;4
+M-2006-32;home team win;3;1
+M-2006-33;away team win;1;2
+M-2006-34;away team win;0;3
+M-2006-35;home team win;2;0
+M-2006-36;draw;2;2
+M-2006-37;draw;1;1
+M-2006-38;home team win;2;1
+M-2006-39;home team win;3;2
+M-2006-40;draw;0;0
+M-2006-41;away team win;0;2
+M-2006-42;home team win;2;1
+M-2006-43;draw;2;2
+M-2006-44;away team win;1;4
+M-2006-45;away team win;0;1
+M-2006-46;home team win;1;0
+M-2006-47;home team win;2;0
+M-2006-48;away team win;0;2
+M-2006-49;home team win;2;0
+M-2006-50;home team win;2;1
+M-2006-51;home team win;1;0
+M-2006-52;home team win;1;0
+M-2006-53;home team win;1;0
+M-2006-54;away team win;0;0
+M-2006-55;home team win;3;0
+M-2006-56;away team win;1;3
+M-2006-57;home team win;1;1
+M-2006-58;home team win;3;0
+M-2006-59;away team win;0;0
+M-2006-60;away team win;0;1
+M-2006-61;away team win;0;2
+M-2006-62;away team win;0;1
+M-2006-63;home team win;3;1
+M-2006-64;home team win;1;1
+M-2010-01;draw;1;1
+M-2010-02;draw;0;0
+M-2010-03;home team win;2;0
+M-2010-04;home team win;1;0
+M-2010-05;draw;1;1
+M-2010-06;away team win;0;1
+M-2010-07;away team win;0;1
+M-2010-08;home team win;4;0
+M-2010-09;home team win;2;0
+M-2010-10;home team win;1;0
+M-2010-11;draw;1;1
+M-2010-12;draw;1;1
+M-2010-13;draw;0;0
+M-2010-14;home team win;2;1
+M-2010-15;away team win;0;1
+M-2010-16;away team win;0;1
+M-2010-17;away team win;0;3
+M-2010-18;home team win;4;1
+M-2010-19;home team win;2;1
+M-2010-20;away team win;0;2
+M-2010-21;away team win;0;1
+M-2010-22;draw;2;2
+M-2010-23;draw;0;0
+M-2010-24;home team win;1;0
+M-2010-25;draw;1;1
+M-2010-26;away team win;1;2
+M-2010-27;away team win;0;2
+M-2010-28;draw;1;1
+M-2010-29;home team win;3;1
+M-2010-30;home team win;7;0
+M-2010-31;home team win;1;0
+M-2010-32;home team win;2;0
+M-2010-33;away team win;1;2
+M-2010-34;away team win;0;1
+M-2010-35;away team win;0;2
+M-2010-36;draw;2;2
+M-2010-37;away team win;0;1
+M-2010-38;home team win;1;0
+M-2010-39;home team win;2;1
+M-2010-40;away team win;0;1
+M-2010-41;draw;0;0
+M-2010-42;home team win;3;2
+M-2010-43;away team win;1;2
+M-2010-44;away team win;1;3
+M-2010-45;away team win;0;3
+M-2010-46;draw;0;0
+M-2010-47;away team win;1;2
+M-2010-48;draw;0;0
+M-2010-49;home team win;2;1
+M-2010-50;away team win;1;2
+M-2010-51;home team win;4;1
+M-2010-52;home team win;3;1
+M-2010-53;home team win;2;1
+M-2010-54;home team win;3;0
+M-2010-55;home team win;0;0
+M-2010-56;home team win;1;0
+M-2010-57;home team win;2;1
+M-2010-58;home team win;1;1
+M-2010-59;away team win;0;4
+M-2010-60;away team win;0;1
+M-2010-61;away team win;2;3
+M-2010-62;away team win;0;1
+M-2010-63;away team win;2;3
+M-2010-64;away team win;0;1
+M-2014-01;home team win;3;1
+M-2014-02;home team win;1;0
+M-2014-03;away team win;1;5
+M-2014-04;home team win;3;1
+M-2014-05;home team win;3;0
+M-2014-06;away team win;1;3
+M-2014-07;away team win;1;2
+M-2014-08;home team win;2;1
+M-2014-09;home team win;2;1
+M-2014-10;home team win;3;0
+M-2014-11;home team win;2;1
+M-2014-12;home team win;4;0
+M-2014-13;draw;0;0
+M-2014-14;away team win;1;2
+M-2014-15;home team win;2;1
+M-2014-16;draw;0;0
+M-2014-17;draw;1;1
+M-2014-18;away team win;2;3
+M-2014-19;away team win;0;2
+M-2014-20;away team win;0;4
+M-2014-21;home team win;2;1
+M-2014-22;home team win;2;1
+M-2014-23;draw;0;0
+M-2014-24;away team win;0;1
+M-2014-25;away team win;2;5
+M-2014-26;away team win;1;2
+M-2014-27;home team win;1;0
+M-2014-28;draw;2;2
+M-2014-29;home team win;1;0
+M-2014-30;home team win;1;0
+M-2014-31;away team win;2;4
+M-2014-32;draw;2;2
+M-2014-33;away team win;0;3
+M-2014-34;home team win;2;0
+M-2014-35;away team win;1;4
+M-2014-36;away team win;1;3
+M-2014-37;draw;0;0
+M-2014-38;away team win;0;1
+M-2014-39;away team win;1;4
+M-2014-40;home team win;2;1
+M-2014-41;home team win;3;1
+M-2014-42;away team win;2;3
+M-2014-43;away team win;0;3
+M-2014-44;draw;0;0
+M-2014-45;home team win;2;1
+M-2014-46;away team win;0;1
+M-2014-47;draw;1;1
+M-2014-48;away team win;0;1
+M-2014-49;home team win;1;1
+M-2014-50;home team win;2;0
+M-2014-51;home team win;2;1
+M-2014-52;home team win;1;1
+M-2014-53;home team win;2;0
+M-2014-54;home team win;2;1
+M-2014-55;home team win;1;0
+M-2014-56;home team win;2;1
+M-2014-57;away team win;0;1
+M-2014-58;home team win;2;1
+M-2014-59;home team win;1;0
+M-2014-60;home team win;0;0
+M-2014-61;away team win;1;7
+M-2014-62;away team win;0;0
+M-2014-63;away team win;0;3
+M-2014-64;home team win;1;0
+M-2018-01;home team win;5;0
+M-2018-02;away team win;0;1
+M-2018-03;away team win;0;1
+M-2018-04;draw;3;3
+M-2018-05;home team win;2;1
+M-2018-06;draw;1;1
+M-2018-07;away team win;0;1
+M-2018-08;home team win;2;0
+M-2018-09;away team win;0;1
+M-2018-10;away team win;0;1
+M-2018-11;draw;1;1
+M-2018-12;home team win;1;0
+M-2018-13;home team win;3;0
+M-2018-14;away team win;1;2
+M-2018-15;away team win;1;2
+M-2018-16;away team win;1;2
+M-2018-17;home team win;3;1
+M-2018-18;home team win;1;0
+M-2018-19;home team win;1;0
+M-2018-20;away team win;0;1
+M-2018-21;draw;1;1
+M-2018-22;home team win;1;0
+M-2018-23;away team win;0;3
+M-2018-24;home team win;2;0
+M-2018-25;home team win;2;0
+M-2018-26;away team win;1;2
+M-2018-27;home team win;5;2
+M-2018-28;away team win;1;2
+M-2018-29;home team win;2;1
+M-2018-30;home team win;6;1
+M-2018-31;draw;2;2
+M-2018-32;away team win;0;3
+M-2018-33;home team win;2;1
+M-2018-34;home team win;3;0
+M-2018-35;draw;2;2
+M-2018-36;draw;1;1
+M-2018-37;away team win;0;2
+M-2018-38;draw;0;0
+M-2018-39;away team win;1;2
+M-2018-40;away team win;1;2
+M-2018-41;home team win;2;0
+M-2018-42;away team win;0;3
+M-2018-43;away team win;0;2
+M-2018-44;draw;2;2
+M-2018-45;away team win;0;1
+M-2018-46;away team win;0;1
+M-2018-47;away team win;0;1
+M-2018-48;away team win;1;2
+M-2018-49;home team win;4;3
+M-2018-50;home team win;2;1
+M-2018-51;away team win;1;1
+M-2018-52;home team win;1;1
+M-2018-53;home team win;2;0
+M-2018-54;home team win;3;2
+M-2018-55;home team win;1;0
+M-2018-56;away team win;1;1
+M-2018-57;away team win;0;2
+M-2018-58;away team win;1;2
+M-2018-59;away team win;0;2
+M-2018-60;away team win;2;2
+M-2018-61;home team win;1;0
+M-2018-62;home team win;2;1
+M-2018-63;home team win;2;0
+M-2018-64;home team win;4;2
+M-2022-01;away team win;0;2
+M-2022-02;home team win;6;2
+M-2022-03;away team win;0;2
+M-2022-04;draw;1;1
+M-2022-05;away team win;1;2
+M-2022-06;draw;0;0
+M-2022-07;draw;0;0
+M-2022-08;home team win;4;1
+M-2022-09;draw;0;0
+M-2022-10;away team win;1;2
+M-2022-11;home team win;7;0
+M-2022-12;home team win;1;0
+M-2022-13;home team win;1;0
+M-2022-14;draw;0;0
+M-2022-15;home team win;3;2
+M-2022-16;home team win;2;0
+M-2022-17;away team win;0;2
+M-2022-18;away team win;1;3
+M-2022-19;draw;1;1
+M-2022-20;draw;0;0
+M-2022-21;away team win;0;1
+M-2022-22;home team win;2;0
+M-2022-23;home team win;2;1
+M-2022-24;home team win;2;0
+M-2022-25;away team win;0;1
+M-2022-26;away team win;0;2
+M-2022-27;home team win;4;1
+M-2022-28;draw;1;1
+M-2022-29;draw;3;3
+M-2022-30;away team win;2;3
+M-2022-31;home team win;1;0
+M-2022-32;home team win;2;0
+M-2022-33;away team win;1;2
+M-2022-34;home team win;2;0
+M-2022-35;away team win;0;1
+M-2022-36;away team win;0;3
+M-2022-37;home team win;1;0
+M-2022-38;home team win;1;0
+M-2022-39;away team win;0;2
+M-2022-40;away team win;1;2
+M-2022-41;away team win;1;2
+M-2022-42;draw;0;0
+M-2022-43;away team win;2;4
+M-2022-44;home team win;2;1
+M-2022-45;away team win;0;2
+M-2022-46;home team win;2;1
+M-2022-47;home team win;1;0
+M-2022-48;away team win;2;3
+M-2022-49;home team win;3;1
+M-2022-50;home team win;2;1
+M-2022-51;home team win;3;1
+M-2022-52;home team win;3;0
+M-2022-53;away team win;1;1
+M-2022-54;home team win;4;1
+M-2022-55;home team win;0;0
+M-2022-56;home team win;6;1
+M-2022-57;home team win;1;1
+M-2022-58;away team win;2;2
+M-2022-59;home team win;1;0
+M-2022-60;away team win;1;2
+M-2022-61;home team win;3;0
+M-2022-62;home team win;2;0
+M-2022-63;home team win;2;1
+M-2022-64;home team win;3;3

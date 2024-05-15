@@ -1,0 +1,965 @@
+﻿Match_Id;Tournament_Name;Stadium_Id;Stage_Name;Group_Name;Home Team Code;Away Team Code
+M-1930-01;1930 FIFA World Cup;S-193;group stage;Group 1;FRA;MEX
+M-1930-02;1930 FIFA World Cup;S-192;group stage;Group 4;USA;BEL
+M-1930-03;1930 FIFA World Cup;S-192;group stage;Group 2;YUG;BRA
+M-1930-04;1930 FIFA World Cup;S-193;group stage;Group 3;ROU;PER
+M-1930-05;1930 FIFA World Cup;S-192;group stage;Group 1;ARG;FRA
+M-1930-06;1930 FIFA World Cup;S-192;group stage;Group 1;CHL;MEX
+M-1930-07;1930 FIFA World Cup;S-192;group stage;Group 2;YUG;BOL
+M-1930-08;1930 FIFA World Cup;S-192;group stage;Group 4;USA;PRY
+M-1930-09;1930 FIFA World Cup;S-191;group stage;Group 3;URY;PER
+M-1930-10;1930 FIFA World Cup;S-191;group stage;Group 1;CHL;FRA
+M-1930-11;1930 FIFA World Cup;S-191;group stage;Group 1;ARG;MEX
+M-1930-12;1930 FIFA World Cup;S-191;group stage;Group 2;BRA;BOL
+M-1930-13;1930 FIFA World Cup;S-191;group stage;Group 4;PRY;BEL
+M-1930-14;1930 FIFA World Cup;S-191;group stage;Group 3;URY;ROU
+M-1930-15;1930 FIFA World Cup;S-191;group stage;Group 1;ARG;CHL
+M-1930-16;1930 FIFA World Cup;S-191;semi-finals;not applicable;ARG;USA
+M-1930-17;1930 FIFA World Cup;S-191;semi-finals;not applicable;URY;YUG
+M-1930-18;1930 FIFA World Cup;S-191;final;not applicable;URY;ARG
+M-1934-01;1934 FIFA World Cup;S-081;round of 16;not applicable;AUT;FRA
+M-1934-02;1934 FIFA World Cup;S-080;round of 16;not applicable;CSK;ROU
+M-1934-03;1934 FIFA World Cup;S-072;round of 16;not applicable;GER;BEL
+M-1934-04;1934 FIFA World Cup;S-075;round of 16;not applicable;HUN;EGY
+M-1934-05;1934 FIFA World Cup;S-078;round of 16;not applicable;ITA;USA
+M-1934-06;1934 FIFA World Cup;S-073;round of 16;not applicable;ESP;BRA
+M-1934-07;1934 FIFA World Cup;S-069;round of 16;not applicable;SWE;ARG
+M-1934-08;1934 FIFA World Cup;S-074;round of 16;not applicable;CHE;NLD
+M-1934-09;1934 FIFA World Cup;S-069;quarter-finals;not applicable;AUT;HUN
+M-1934-10;1934 FIFA World Cup;S-081;quarter-finals;not applicable;CSK;CHE
+M-1934-11;1934 FIFA World Cup;S-074;quarter-finals;not applicable;GER;SWE
+M-1934-12;1934 FIFA World Cup;S-072;quarter-finals;not applicable;ITA;ESP
+M-1934-13;1934 FIFA World Cup;S-072;quarter-finals;not applicable;ITA;ESP
+M-1934-14;1934 FIFA World Cup;S-078;semi-finals;not applicable;CSK;GER
+M-1934-15;1934 FIFA World Cup;S-074;semi-finals;not applicable;ITA;AUT
+M-1934-16;1934 FIFA World Cup;S-075;third-place match;not applicable;GER;AUT
+M-1934-17;1934 FIFA World Cup;S-078;final;not applicable;ITA;CSK
+M-1938-01;1938 FIFA World Cup;S-045;round of 16;not applicable;CHE;GER
+M-1938-02;1938 FIFA World Cup;S-052;round of 16;not applicable;CUB;ROU
+M-1938-03;1938 FIFA World Cup;S-046;round of 16;not applicable;FRA;BEL
+M-1938-04;1938 FIFA World Cup;S-047;round of 16;not applicable;HUN;IDN
+M-1938-05;1938 FIFA World Cup;S-042;round of 16;not applicable;ITA;NOR
+M-1938-06;1938 FIFA World Cup;S-050;round of 16;not applicable;BRA;POL
+M-1938-07;1938 FIFA World Cup;S-038;round of 16;not applicable;CSK;NLD
+M-1938-08;1938 FIFA World Cup;S-052;round of 16;not applicable;CUB;ROU
+M-1938-09;1938 FIFA World Cup;S-045;round of 16;not applicable;CHE;GER
+M-1938-10;1938 FIFA World Cup;S-037;quarter-finals;not applicable;BRA;CSK
+M-1938-11;1938 FIFA World Cup;S-040;quarter-finals;not applicable;HUN;CHE
+M-1938-12;1938 FIFA World Cup;S-046;quarter-finals;not applicable;ITA;FRA
+M-1938-13;1938 FIFA World Cup;S-036;quarter-finals;not applicable;SWE;CUB
+M-1938-14;1938 FIFA World Cup;S-037;quarter-finals;not applicable;BRA;CSK
+M-1938-15;1938 FIFA World Cup;S-045;semi-finals;not applicable;HUN;SWE
+M-1938-16;1938 FIFA World Cup;S-042;semi-finals;not applicable;ITA;BRA
+M-1938-17;1938 FIFA World Cup;S-037;third-place match;not applicable;BRA;SWE
+M-1938-18;1938 FIFA World Cup;S-046;final;not applicable;ITA;HUN
+M-1950-01;1950 FIFA World Cup;S-020;group stage;Group 1;BRA;MEX
+M-1950-02;1950 FIFA World Cup;S-007;group stage;Group 1;YUG;CHE
+M-1950-03;1950 FIFA World Cup;S-020;group stage;Group 2;ENG;CHL
+M-1950-04;1950 FIFA World Cup;S-012;group stage;Group 2;ESP;USA
+M-1950-05;1950 FIFA World Cup;S-023;group stage;Group 3;SWE;ITA
+M-1950-06;1950 FIFA World Cup;S-023;group stage;Group 1;BRA;CHE
+M-1950-07;1950 FIFA World Cup;S-017;group stage;Group 1;YUG;MEX
+M-1950-08;1950 FIFA World Cup;S-020;group stage;Group 2;ESP;CHL
+M-1950-09;1950 FIFA World Cup;S-007;group stage;Group 2;USA;ENG
+M-1950-10;1950 FIFA World Cup;S-012;group stage;Group 3;SWE;PRY
+M-1950-11;1950 FIFA World Cup;S-020;group stage;Group 1;BRA;YUG
+M-1950-12;1950 FIFA World Cup;S-019;group stage;Group 2;CHL;USA
+M-1950-13;1950 FIFA World Cup;S-020;group stage;Group 2;ESP;ENG
+M-1950-14;1950 FIFA World Cup;S-023;group stage;Group 3;ITA;PRY
+M-1950-15;1950 FIFA World Cup;S-007;group stage;Group 4;URY;BOL
+M-1950-16;1950 FIFA World Cup;S-017;group stage;Group 1;CHE;MEX
+M-1950-17;1950 FIFA World Cup;S-020;final round;not applicable;BRA;SWE
+M-1950-18;1950 FIFA World Cup;S-023;final round;not applicable;URY;ESP
+M-1950-19;1950 FIFA World Cup;S-020;final round;not applicable;BRA;ESP
+M-1950-20;1950 FIFA World Cup;S-023;final round;not applicable;URY;SWE
+M-1950-21;1950 FIFA World Cup;S-023;final round;not applicable;SWE;ESP
+M-1950-22;1950 FIFA World Cup;S-020;final round;not applicable;URY;BRA
+M-1954-01;1954 FIFA World Cup;S-178;group stage;Group 1;BRA;MEX
+M-1954-02;1954 FIFA World Cup;S-179;group stage;Group 1;YUG;FRA
+M-1954-03;1954 FIFA World Cup;S-181;group stage;Group 3;AUT;SCO
+M-1954-04;1954 FIFA World Cup;S-177;group stage;Group 3;URY;CSK
+M-1954-05;1954 FIFA World Cup;S-179;group stage;Group 4;CHE;ITA
+M-1954-06;1954 FIFA World Cup;S-181;group stage;Group 2;HUN;KOR
+M-1954-07;1954 FIFA World Cup;S-177;group stage;Group 2;DEU;TUR
+M-1954-08;1954 FIFA World Cup;S-176;group stage;Group 4;ENG;BEL
+M-1954-09;1954 FIFA World Cup;S-176;group stage;Group 3;URY;SCO
+M-1954-10;1954 FIFA World Cup;S-179;group stage;Group 1;BRA;YUG
+M-1954-11;1954 FIFA World Cup;S-181;group stage;Group 3;AUT;CSK
+M-1954-12;1954 FIFA World Cup;S-178;group stage;Group 1;FRA;MEX
+M-1954-13;1954 FIFA World Cup;S-176;group stage;Group 2;HUN;DEU
+M-1954-14;1954 FIFA World Cup;S-178;group stage;Group 2;TUR;KOR
+M-1954-15;1954 FIFA World Cup;S-180;group stage;Group 4;ITA;BEL
+M-1954-16;1954 FIFA World Cup;S-177;group stage;Group 4;ENG;CHE
+M-1954-17;1954 FIFA World Cup;S-181;group stage;Group 2;DEU;TUR
+M-1954-18;1954 FIFA World Cup;S-176;group stage;Group 4;CHE;ITA
+M-1954-19;1954 FIFA World Cup;S-179;quarter-finals;not applicable;AUT;CHE
+M-1954-20;1954 FIFA World Cup;S-176;quarter-finals;not applicable;URY;ENG
+M-1954-21;1954 FIFA World Cup;S-177;quarter-finals;not applicable;HUN;BRA
+M-1954-22;1954 FIFA World Cup;S-178;quarter-finals;not applicable;DEU;YUG
+M-1954-23;1954 FIFA World Cup;S-179;semi-finals;not applicable;HUN;URY
+M-1954-24;1954 FIFA World Cup;S-176;semi-finals;not applicable;DEU;AUT
+M-1954-25;1954 FIFA World Cup;S-181;third-place match;not applicable;AUT;URY
+M-1954-26;1954 FIFA World Cup;S-177;final;not applicable;DEU;HUN
+M-1958-01;1958 FIFA World Cup;S-173;group stage;Group 3;SWE;MEX
+M-1958-02;1958 FIFA World Cup;S-169;group stage;Group 1;ARG;DEU
+M-1958-03;1958 FIFA World Cup;S-167;group stage;Group 1;NIR;CSK
+M-1958-04;1958 FIFA World Cup;S-170;group stage;Group 2;FRA;PRY
+M-1958-05;1958 FIFA World Cup;S-175;group stage;Group 2;YUG;SCO
+M-1958-06;1958 FIFA World Cup;S-172;group stage;Group 3;HUN;WAL
+M-1958-07;1958 FIFA World Cup;S-174;group stage;Group 4;BRA;AUT
+M-1958-08;1958 FIFA World Cup;S-166;group stage;Group 4;SUN;ENG
+M-1958-09;1958 FIFA World Cup;S-167;group stage;Group 1;ARG;NIR
+M-1958-10;1958 FIFA World Cup;S-168;group stage;Group 1;DEU;CSK
+M-1958-11;1958 FIFA World Cup;S-170;group stage;Group 2;PRY;SCO
+M-1958-12;1958 FIFA World Cup;S-175;group stage;Group 2;YUG;FRA
+M-1958-13;1958 FIFA World Cup;S-173;group stage;Group 3;MEX;WAL
+M-1958-14;1958 FIFA World Cup;S-166;group stage;Group 4;BRA;ENG
+M-1958-15;1958 FIFA World Cup;S-164;group stage;Group 4;SUN;AUT
+M-1958-16;1958 FIFA World Cup;S-173;group stage;Group 3;SWE;HUN
+M-1958-17;1958 FIFA World Cup;S-173;group stage;Group 3;SWE;WAL
+M-1958-18;1958 FIFA World Cup;S-168;group stage;Group 1;CSK;ARG
+M-1958-19;1958 FIFA World Cup;S-169;group stage;Group 1;DEU;NIR
+M-1958-20;1958 FIFA World Cup;S-171;group stage;Group 2;FRA;SCO
+M-1958-21;1958 FIFA World Cup;S-165;group stage;Group 2;PRY;YUG
+M-1958-22;1958 FIFA World Cup;S-172;group stage;Group 3;HUN;MEX
+M-1958-23;1958 FIFA World Cup;S-166;group stage;Group 4;BRA;SUN
+M-1958-24;1958 FIFA World Cup;S-164;group stage;Group 4;ENG;AUT
+M-1958-25;1958 FIFA World Cup;S-169;group stage;Group 1;NIR;CSK
+M-1958-26;1958 FIFA World Cup;S-173;group stage;Group 3;WAL;HUN
+M-1958-27;1958 FIFA World Cup;S-166;group stage;Group 4;SUN;ENG
+M-1958-28;1958 FIFA World Cup;S-166;quarter-finals;not applicable;BRA;WAL
+M-1958-29;1958 FIFA World Cup;S-170;quarter-finals;not applicable;FRA;NIR
+M-1958-30;1958 FIFA World Cup;S-173;quarter-finals;not applicable;SWE;SUN
+M-1958-31;1958 FIFA World Cup;S-169;quarter-finals;not applicable;DEU;YUG
+M-1958-32;1958 FIFA World Cup;S-173;semi-finals;not applicable;BRA;FRA
+M-1958-33;1958 FIFA World Cup;S-166;semi-finals;not applicable;SWE;DEU
+M-1958-34;1958 FIFA World Cup;S-166;third-place match;not applicable;FRA;DEU
+M-1958-35;1958 FIFA World Cup;S-173;final;not applicable;BRA;SWE
+M-1962-01;1962 FIFA World Cup;S-024;group stage;Group 1;URY;COL
+M-1962-02;1962 FIFA World Cup;S-026;group stage;Group 2;CHL;CHE
+M-1962-03;1962 FIFA World Cup;S-027;group stage;Group 3;BRA;MEX
+M-1962-04;1962 FIFA World Cup;S-025;group stage;Group 4;ARG;BGR
+M-1962-05;1962 FIFA World Cup;S-024;group stage;Group 1;SUN;YUG
+M-1962-06;1962 FIFA World Cup;S-026;group stage;Group 2;DEU;ITA
+M-1962-07;1962 FIFA World Cup;S-027;group stage;Group 3;CSK;ESP
+M-1962-08;1962 FIFA World Cup;S-025;group stage;Group 4;HUN;ENG
+M-1962-09;1962 FIFA World Cup;S-024;group stage;Group 1;YUG;URY
+M-1962-10;1962 FIFA World Cup;S-026;group stage;Group 2;CHL;ITA
+M-1962-11;1962 FIFA World Cup;S-027;group stage;Group 3;BRA;CSK
+M-1962-12;1962 FIFA World Cup;S-025;group stage;Group 4;ENG;ARG
+M-1962-13;1962 FIFA World Cup;S-024;group stage;Group 1;SUN;COL
+M-1962-14;1962 FIFA World Cup;S-026;group stage;Group 2;DEU;CHE
+M-1962-15;1962 FIFA World Cup;S-027;group stage;Group 3;ESP;MEX
+M-1962-16;1962 FIFA World Cup;S-025;group stage;Group 4;HUN;BGR
+M-1962-17;1962 FIFA World Cup;S-024;group stage;Group 1;SUN;URY
+M-1962-18;1962 FIFA World Cup;S-026;group stage;Group 2;DEU;CHL
+M-1962-19;1962 FIFA World Cup;S-027;group stage;Group 3;BRA;ESP
+M-1962-20;1962 FIFA World Cup;S-025;group stage;Group 4;HUN;ARG
+M-1962-21;1962 FIFA World Cup;S-024;group stage;Group 1;YUG;COL
+M-1962-22;1962 FIFA World Cup;S-026;group stage;Group 2;ITA;CHE
+M-1962-23;1962 FIFA World Cup;S-027;group stage;Group 3;MEX;CSK
+M-1962-24;1962 FIFA World Cup;S-025;group stage;Group 4;ENG;BGR
+M-1962-25;1962 FIFA World Cup;S-027;quarter-finals;not applicable;BRA;ENG
+M-1962-26;1962 FIFA World Cup;S-024;quarter-finals;not applicable;CHL;SUN
+M-1962-27;1962 FIFA World Cup;S-025;quarter-finals;not applicable;CSK;HUN
+M-1962-28;1962 FIFA World Cup;S-026;quarter-finals;not applicable;YUG;DEU
+M-1962-29;1962 FIFA World Cup;S-026;semi-finals;not applicable;BRA;CHL
+M-1962-30;1962 FIFA World Cup;S-027;semi-finals;not applicable;CSK;YUG
+M-1962-31;1962 FIFA World Cup;S-026;third-place match;not applicable;CHL;YUG
+M-1962-32;1962 FIFA World Cup;S-026;final;not applicable;BRA;CSK
+M-1966-01;1966 FIFA World Cup;S-030;group stage;Group 1;ENG;URY
+M-1966-02;1966 FIFA World Cup;S-034;group stage;Group 2;DEU;CHE
+M-1966-03;1966 FIFA World Cup;S-029;group stage;Group 3;BRA;BGR
+M-1966-04;1966 FIFA World Cup;S-033;group stage;Group 4;SUN;PRK
+M-1966-05;1966 FIFA World Cup;S-030;group stage;Group 1;FRA;MEX
+M-1966-06;1966 FIFA World Cup;S-028;group stage;Group 2;ARG;ESP
+M-1966-07;1966 FIFA World Cup;S-032;group stage;Group 3;PRT;HUN
+M-1966-08;1966 FIFA World Cup;S-035;group stage;Group 4;ITA;CHL
+M-1966-09;1966 FIFA World Cup;S-031;group stage;Group 1;URY;FRA
+M-1966-10;1966 FIFA World Cup;S-034;group stage;Group 2;ESP;CHE
+M-1966-11;1966 FIFA World Cup;S-029;group stage;Group 3;HUN;BRA
+M-1966-12;1966 FIFA World Cup;S-033;group stage;Group 4;CHL;PRK
+M-1966-13;1966 FIFA World Cup;S-028;group stage;Group 2;ARG;DEU
+M-1966-14;1966 FIFA World Cup;S-032;group stage;Group 3;PRT;BGR
+M-1966-15;1966 FIFA World Cup;S-035;group stage;Group 4;SUN;ITA
+M-1966-16;1966 FIFA World Cup;S-030;group stage;Group 1;ENG;MEX
+M-1966-17;1966 FIFA World Cup;S-030;group stage;Group 1;MEX;URY
+M-1966-18;1966 FIFA World Cup;S-034;group stage;Group 2;ARG;CHE
+M-1966-19;1966 FIFA World Cup;S-029;group stage;Group 3;PRT;BRA
+M-1966-20;1966 FIFA World Cup;S-033;group stage;Group 4;PRK;ITA
+M-1966-21;1966 FIFA World Cup;S-030;group stage;Group 1;ENG;FRA
+M-1966-22;1966 FIFA World Cup;S-028;group stage;Group 2;DEU;ESP
+M-1966-23;1966 FIFA World Cup;S-032;group stage;Group 3;HUN;BGR
+M-1966-24;1966 FIFA World Cup;S-035;group stage;Group 4;SUN;CHL
+M-1966-25;1966 FIFA World Cup;S-030;quarter-finals;not applicable;ENG;ARG
+M-1966-26;1966 FIFA World Cup;S-029;quarter-finals;not applicable;PRT;PRK
+M-1966-27;1966 FIFA World Cup;S-035;quarter-finals;not applicable;SUN;HUN
+M-1966-28;1966 FIFA World Cup;S-034;quarter-finals;not applicable;DEU;URY
+M-1966-29;1966 FIFA World Cup;S-029;semi-finals;not applicable;DEU;SUN
+M-1966-30;1966 FIFA World Cup;S-030;semi-finals;not applicable;ENG;PRT
+M-1966-31;1966 FIFA World Cup;S-030;third-place match;not applicable;PRT;SUN
+M-1966-32;1966 FIFA World Cup;S-030;final;not applicable;ENG;DEU
+M-1970-01;1970 FIFA World Cup;S-099;group stage;Group 1;MEX;SUN
+M-1970-02;1970 FIFA World Cup;S-104;group stage;Group 2;URY;ISR
+M-1970-03;1970 FIFA World Cup;S-095;group stage;Group 3;ENG;ROU
+M-1970-04;1970 FIFA World Cup;S-098;group stage;Group 4;PER;BGR
+M-1970-05;1970 FIFA World Cup;S-099;group stage;Group 1;BEL;SLV
+M-1970-06;1970 FIFA World Cup;S-106;group stage;Group 2;ITA;SWE
+M-1970-07;1970 FIFA World Cup;S-095;group stage;Group 3;BRA;CSK
+M-1970-08;1970 FIFA World Cup;S-098;group stage;Group 4;DEU;MAR
+M-1970-09;1970 FIFA World Cup;S-099;group stage;Group 1;SUN;BEL
+M-1970-10;1970 FIFA World Cup;S-104;group stage;Group 2;URY;ITA
+M-1970-11;1970 FIFA World Cup;S-095;group stage;Group 3;ROU;CSK
+M-1970-12;1970 FIFA World Cup;S-098;group stage;Group 4;PER;MAR
+M-1970-13;1970 FIFA World Cup;S-099;group stage;Group 1;MEX;SLV
+M-1970-14;1970 FIFA World Cup;S-106;group stage;Group 2;SWE;ISR
+M-1970-15;1970 FIFA World Cup;S-095;group stage;Group 3;BRA;ENG
+M-1970-16;1970 FIFA World Cup;S-098;group stage;Group 4;DEU;BGR
+M-1970-17;1970 FIFA World Cup;S-099;group stage;Group 1;SUN;SLV
+M-1970-18;1970 FIFA World Cup;S-104;group stage;Group 2;SWE;URY
+M-1970-19;1970 FIFA World Cup;S-095;group stage;Group 3;BRA;ROU
+M-1970-20;1970 FIFA World Cup;S-098;group stage;Group 4;DEU;PER
+M-1970-21;1970 FIFA World Cup;S-099;group stage;Group 1;MEX;BEL
+M-1970-22;1970 FIFA World Cup;S-106;group stage;Group 2;ITA;ISR
+M-1970-23;1970 FIFA World Cup;S-095;group stage;Group 3;ENG;CSK
+M-1970-24;1970 FIFA World Cup;S-098;group stage;Group 4;BGR;MAR
+M-1970-25;1970 FIFA World Cup;S-095;quarter-finals;not applicable;BRA;PER
+M-1970-26;1970 FIFA World Cup;S-106;quarter-finals;not applicable;ITA;MEX
+M-1970-27;1970 FIFA World Cup;S-099;quarter-finals;not applicable;SUN;URY
+M-1970-28;1970 FIFA World Cup;S-098;quarter-finals;not applicable;DEU;ENG
+M-1970-29;1970 FIFA World Cup;S-095;semi-finals;not applicable;BRA;URY
+M-1970-30;1970 FIFA World Cup;S-099;semi-finals;not applicable;ITA;DEU
+M-1970-31;1970 FIFA World Cup;S-099;third-place match;not applicable;DEU;URY
+M-1970-32;1970 FIFA World Cup;S-099;final;not applicable;BRA;ITA
+M-1974-01;1974 FIFA World Cup;S-057;group stage;Group 2;BRA;YUG
+M-1974-02;1974 FIFA World Cup;S-053;group stage;Group 1;DEU;CHL
+M-1974-03;1974 FIFA World Cup;S-060;group stage;Group 1;DDR;AUS
+M-1974-04;1974 FIFA World Cup;S-055;group stage;Group 2;COD;SCO
+M-1974-05;1974 FIFA World Cup;S-056;group stage;Group 3;SWE;BGR
+M-1974-06;1974 FIFA World Cup;S-061;group stage;Group 3;URY;NLD
+M-1974-07;1974 FIFA World Cup;S-065;group stage;Group 4;ITA;HTI
+M-1974-08;1974 FIFA World Cup;S-067;group stage;Group 4;POL;ARG
+M-1974-09;1974 FIFA World Cup;S-060;group stage;Group 1;AUS;DEU
+M-1974-10;1974 FIFA World Cup;S-053;group stage;Group 1;CHL;DDR
+M-1974-11;1974 FIFA World Cup;S-057;group stage;Group 2;SCO;BRA
+M-1974-12;1974 FIFA World Cup;S-059;group stage;Group 2;YUG;COD
+M-1974-13;1974 FIFA World Cup;S-061;group stage;Group 3;BGR;URY
+M-1974-14;1974 FIFA World Cup;S-055;group stage;Group 3;NLD;SWE
+M-1974-15;1974 FIFA World Cup;S-067;group stage;Group 4;ARG;ITA
+M-1974-16;1974 FIFA World Cup;S-065;group stage;Group 4;HTI;POL
+M-1974-17;1974 FIFA World Cup;S-053;group stage;Group 1;AUS;CHL
+M-1974-18;1974 FIFA World Cup;S-057;group stage;Group 2;SCO;YUG
+M-1974-19;1974 FIFA World Cup;S-059;group stage;Group 2;COD;BRA
+M-1974-20;1974 FIFA World Cup;S-060;group stage;Group 1;DDR;DEU
+M-1974-21;1974 FIFA World Cup;S-055;group stage;Group 3;BGR;NLD
+M-1974-22;1974 FIFA World Cup;S-056;group stage;Group 3;SWE;URY
+M-1974-23;1974 FIFA World Cup;S-065;group stage;Group 4;ARG;HTI
+M-1974-24;1974 FIFA World Cup;S-067;group stage;Group 4;POL;ITA
+M-1974-25;1974 FIFA World Cup;S-056;second group stage;Group B;YUG;DEU
+M-1974-26;1974 FIFA World Cup;S-061;second group stage;Group A;BRA;DDR
+M-1974-27;1974 FIFA World Cup;S-059;second group stage;Group A;NLD;ARG
+M-1974-28;1974 FIFA World Cup;S-067;second group stage;Group B;SWE;POL
+M-1974-29;1974 FIFA World Cup;S-061;second group stage;Group A;ARG;BRA
+M-1974-30;1974 FIFA World Cup;S-059;second group stage;Group A;DDR;NLD
+M-1974-31;1974 FIFA World Cup;S-057;second group stage;Group B;POL;YUG
+M-1974-32;1974 FIFA World Cup;S-056;second group stage;Group B;DEU;SWE
+M-1974-33;1974 FIFA World Cup;S-057;second group stage;Group B;POL;DEU
+M-1974-34;1974 FIFA World Cup;S-059;second group stage;Group A;ARG;DDR
+M-1974-35;1974 FIFA World Cup;S-055;second group stage;Group A;NLD;BRA
+M-1974-36;1974 FIFA World Cup;S-056;second group stage;Group B;SWE;YUG
+M-1974-37;1974 FIFA World Cup;S-065;third-place match;not applicable;BRA;POL
+M-1974-38;1974 FIFA World Cup;S-065;final;not applicable;NLD;DEU
+M-1978-01;1978 FIFA World Cup;S-002;group stage;Group 2;DEU;POL
+M-1978-02;1978 FIFA World Cup;S-004;group stage;Group 1;ITA;FRA
+M-1978-03;1978 FIFA World Cup;S-006;group stage;Group 2;TUN;MEX
+M-1978-04;1978 FIFA World Cup;S-002;group stage;Group 1;ARG;HUN
+M-1978-05;1978 FIFA World Cup;S-001;group stage;Group 3;AUT;ESP
+M-1978-06;1978 FIFA World Cup;S-004;group stage;Group 3;BRA;SWE
+M-1978-07;1978 FIFA World Cup;S-005;group stage;Group 4;NLD;IRN
+M-1978-08;1978 FIFA World Cup;S-003;group stage;Group 4;PER;SCO
+M-1978-09;1978 FIFA World Cup;S-004;group stage;Group 1;ITA;HUN
+M-1978-10;1978 FIFA World Cup;S-006;group stage;Group 2;POL;TUN
+M-1978-11;1978 FIFA World Cup;S-003;group stage;Group 2;DEU;MEX
+M-1978-12;1978 FIFA World Cup;S-002;group stage;Group 1;ARG;FRA
+M-1978-13;1978 FIFA World Cup;S-001;group stage;Group 3;AUT;SWE
+M-1978-14;1978 FIFA World Cup;S-004;group stage;Group 3;BRA;ESP
+M-1978-15;1978 FIFA World Cup;S-005;group stage;Group 4;NLD;PER
+M-1978-16;1978 FIFA World Cup;S-003;group stage;Group 4;SCO;IRN
+M-1978-17;1978 FIFA World Cup;S-004;group stage;Group 1;FRA;HUN
+M-1978-18;1978 FIFA World Cup;S-006;group stage;Group 2;POL;MEX
+M-1978-19;1978 FIFA World Cup;S-003;group stage;Group 2;DEU;TUN
+M-1978-20;1978 FIFA World Cup;S-002;group stage;Group 1;ARG;ITA
+M-1978-21;1978 FIFA World Cup;S-004;group stage;Group 3;BRA;AUT
+M-1978-22;1978 FIFA World Cup;S-001;group stage;Group 3;ESP;SWE
+M-1978-23;1978 FIFA World Cup;S-003;group stage;Group 4;PER;IRN
+M-1978-24;1978 FIFA World Cup;S-005;group stage;Group 4;SCO;NLD
+M-1978-25;1978 FIFA World Cup;S-003;second group stage;Group A;AUT;NLD
+M-1978-26;1978 FIFA World Cup;S-002;second group stage;Group A;ITA;DEU
+M-1978-27;1978 FIFA World Cup;S-005;second group stage;Group B;BRA;PER
+M-1978-28;1978 FIFA World Cup;S-006;second group stage;Group B;ARG;POL
+M-1978-29;1978 FIFA World Cup;S-005;second group stage;Group B;PER;POL
+M-1978-30;1978 FIFA World Cup;S-002;second group stage;Group A;ITA;AUT
+M-1978-31;1978 FIFA World Cup;S-003;second group stage;Group A;NLD;DEU
+M-1978-32;1978 FIFA World Cup;S-006;second group stage;Group B;ARG;BRA
+M-1978-33;1978 FIFA World Cup;S-003;second group stage;Group A;AUT;DEU
+M-1978-34;1978 FIFA World Cup;S-002;second group stage;Group A;ITA;NLD
+M-1978-35;1978 FIFA World Cup;S-005;second group stage;Group B;BRA;POL
+M-1978-36;1978 FIFA World Cup;S-006;second group stage;Group B;ARG;PER
+M-1978-37;1978 FIFA World Cup;S-002;third-place match;not applicable;BRA;ITA
+M-1978-38;1978 FIFA World Cup;S-002;final;not applicable;ARG;NLD
+M-1982-01;1982 FIFA World Cup;S-149;group stage;Group 3;ARG;BEL
+M-1982-02;1982 FIFA World Cup;S-162;group stage;Group 1;ITA;POL
+M-1982-03;1982 FIFA World Cup;S-159;group stage;Group 6;BRA;SUN
+M-1982-04;1982 FIFA World Cup;S-147;group stage;Group 1;PER;CMR
+M-1982-05;1982 FIFA World Cup;S-152;group stage;Group 3;HUN;SLV
+M-1982-06;1982 FIFA World Cup;S-156;group stage;Group 6;SCO;NZL
+M-1982-07;1982 FIFA World Cup;S-153;group stage;Group 2;DEU;DZA
+M-1982-08;1982 FIFA World Cup;S-151;group stage;Group 4;ENG;FRA
+M-1982-09;1982 FIFA World Cup;S-160;group stage;Group 5;ESP;HND
+M-1982-10;1982 FIFA World Cup;S-157;group stage;Group 2;CHL;AUT
+M-1982-11;1982 FIFA World Cup;S-161;group stage;Group 4;CSK;KWT
+M-1982-12;1982 FIFA World Cup;S-163;group stage;Group 5;YUG;NIR
+M-1982-13;1982 FIFA World Cup;S-162;group stage;Group 1;ITA;PER
+M-1982-14;1982 FIFA World Cup;S-148;group stage;Group 3;ARG;HUN
+M-1982-15;1982 FIFA World Cup;S-158;group stage;Group 6;BRA;SCO
+M-1982-16;1982 FIFA World Cup;S-147;group stage;Group 1;POL;CMR
+M-1982-17;1982 FIFA World Cup;S-152;group stage;Group 3;BEL;SLV
+M-1982-18;1982 FIFA World Cup;S-156;group stage;Group 6;SUN;NZL
+M-1982-19;1982 FIFA World Cup;S-153;group stage;Group 2;DEU;CHL
+M-1982-20;1982 FIFA World Cup;S-151;group stage;Group 4;ENG;CSK
+M-1982-21;1982 FIFA World Cup;S-160;group stage;Group 5;ESP;YUG
+M-1982-22;1982 FIFA World Cup;S-157;group stage;Group 2;DZA;AUT
+M-1982-23;1982 FIFA World Cup;S-161;group stage;Group 4;FRA;KWT
+M-1982-24;1982 FIFA World Cup;S-163;group stage;Group 5;HND;NIR
+M-1982-25;1982 FIFA World Cup;S-147;group stage;Group 1;POL;PER
+M-1982-26;1982 FIFA World Cup;S-152;group stage;Group 3;BEL;HUN
+M-1982-27;1982 FIFA World Cup;S-156;group stage;Group 6;SUN;SCO
+M-1982-28;1982 FIFA World Cup;S-162;group stage;Group 1;ITA;CMR
+M-1982-29;1982 FIFA World Cup;S-148;group stage;Group 3;ARG;SLV
+M-1982-30;1982 FIFA World Cup;S-158;group stage;Group 6;BRA;NZL
+M-1982-31;1982 FIFA World Cup;S-157;group stage;Group 2;DZA;CHL
+M-1982-32;1982 FIFA World Cup;S-161;group stage;Group 4;FRA;CSK
+M-1982-33;1982 FIFA World Cup;S-163;group stage;Group 5;HND;YUG
+M-1982-34;1982 FIFA World Cup;S-153;group stage;Group 2;DEU;AUT
+M-1982-35;1982 FIFA World Cup;S-151;group stage;Group 4;ENG;KWT
+M-1982-36;1982 FIFA World Cup;S-160;group stage;Group 5;ESP;NIR
+M-1982-37;1982 FIFA World Cup;S-155;second group stage;Group 4;AUT;FRA
+M-1982-38;1982 FIFA World Cup;S-149;second group stage;Group 1;POL;BEL
+M-1982-39;1982 FIFA World Cup;S-150;second group stage;Group 3;ITA;ARG
+M-1982-40;1982 FIFA World Cup;S-154;second group stage;Group 2;DEU;ENG
+M-1982-41;1982 FIFA World Cup;S-155;second group stage;Group 4;AUT;NIR
+M-1982-42;1982 FIFA World Cup;S-149;second group stage;Group 1;BEL;SUN
+M-1982-43;1982 FIFA World Cup;S-150;second group stage;Group 3;ARG;BRA
+M-1982-44;1982 FIFA World Cup;S-154;second group stage;Group 2;DEU;ESP
+M-1982-45;1982 FIFA World Cup;S-155;second group stage;Group 4;FRA;NIR
+M-1982-46;1982 FIFA World Cup;S-149;second group stage;Group 1;SUN;POL
+M-1982-47;1982 FIFA World Cup;S-150;second group stage;Group 3;ITA;BRA
+M-1982-48;1982 FIFA World Cup;S-154;second group stage;Group 2;ESP;ENG
+M-1982-49;1982 FIFA World Cup;S-149;semi-finals;not applicable;POL;ITA
+M-1982-50;1982 FIFA World Cup;S-159;semi-finals;not applicable;DEU;FRA
+M-1982-51;1982 FIFA World Cup;S-148;third-place match;not applicable;POL;FRA
+M-1982-52;1982 FIFA World Cup;S-154;final;not applicable;ITA;DEU
+M-1986-01;1986 FIFA World Cup;S-099;group stage;Group A;BGR;ITA
+M-1986-02;1986 FIFA World Cup;S-095;group stage;Group D;ESP;BRA
+M-1986-03;1986 FIFA World Cup;S-098;group stage;Group C;CAN;FRA
+M-1986-04;1986 FIFA World Cup;S-100;group stage;Group A;ARG;KOR
+M-1986-05;1986 FIFA World Cup;S-097;group stage;Group C;SUN;HUN
+M-1986-06;1986 FIFA World Cup;S-102;group stage;Group F;MAR;POL
+M-1986-07;1986 FIFA World Cup;S-099;group stage;Group B;BEL;MEX
+M-1986-08;1986 FIFA World Cup;S-096;group stage;Group D;DZA;NIR
+M-1986-09;1986 FIFA World Cup;S-101;group stage;Group F;PRT;ENG
+M-1986-10;1986 FIFA World Cup;S-106;group stage;Group B;PRY;IRQ
+M-1986-11;1986 FIFA World Cup;S-105;group stage;Group E;URY;DEU
+M-1986-12;1986 FIFA World Cup;S-103;group stage;Group E;SCO;DNK
+M-1986-13;1986 FIFA World Cup;S-104;group stage;Group A;ITA;ARG
+M-1986-14;1986 FIFA World Cup;S-098;group stage;Group C;FRA;SUN
+M-1986-15;1986 FIFA World Cup;S-100;group stage;Group A;KOR;BGR
+M-1986-16;1986 FIFA World Cup;S-097;group stage;Group C;HUN;CAN
+M-1986-17;1986 FIFA World Cup;S-095;group stage;Group D;BRA;DZA
+M-1986-18;1986 FIFA World Cup;S-101;group stage;Group F;ENG;MAR
+M-1986-19;1986 FIFA World Cup;S-099;group stage;Group B;MEX;PRY
+M-1986-20;1986 FIFA World Cup;S-096;group stage;Group D;NIR;ESP
+M-1986-21;1986 FIFA World Cup;S-102;group stage;Group F;POL;PRT
+M-1986-22;1986 FIFA World Cup;S-106;group stage;Group B;IRQ;BEL
+M-1986-23;1986 FIFA World Cup;S-105;group stage;Group E;DEU;SCO
+M-1986-24;1986 FIFA World Cup;S-103;group stage;Group E;DNK;URY
+M-1986-25;1986 FIFA World Cup;S-098;group stage;Group C;HUN;FRA
+M-1986-26;1986 FIFA World Cup;S-097;group stage;Group C;SUN;CAN
+M-1986-27;1986 FIFA World Cup;S-100;group stage;Group A;ARG;BGR
+M-1986-28;1986 FIFA World Cup;S-104;group stage;Group A;KOR;ITA
+M-1986-29;1986 FIFA World Cup;S-099;group stage;Group B;IRQ;MEX
+M-1986-30;1986 FIFA World Cup;S-106;group stage;Group B;PRY;BEL
+M-1986-31;1986 FIFA World Cup;S-102;group stage;Group F;ENG;POL
+M-1986-32;1986 FIFA World Cup;S-096;group stage;Group F;PRT;MAR
+M-1986-33;1986 FIFA World Cup;S-101;group stage;Group D;DZA;ESP
+M-1986-34;1986 FIFA World Cup;S-095;group stage;Group D;NIR;BRA
+M-1986-35;1986 FIFA World Cup;S-105;group stage;Group E;DNK;DEU
+M-1986-36;1986 FIFA World Cup;S-103;group stage;Group E;SCO;URY
+M-1986-37;1986 FIFA World Cup;S-099;round of 16;not applicable;MEX;BGR
+M-1986-38;1986 FIFA World Cup;S-098;round of 16;not applicable;SUN;BEL
+M-1986-39;1986 FIFA World Cup;S-095;round of 16;not applicable;BRA;POL
+M-1986-40;1986 FIFA World Cup;S-104;round of 16;not applicable;ARG;URY
+M-1986-41;1986 FIFA World Cup;S-100;round of 16;not applicable;ITA;FRA
+M-1986-42;1986 FIFA World Cup;S-102;round of 16;not applicable;MAR;DEU
+M-1986-43;1986 FIFA World Cup;S-099;round of 16;not applicable;ENG;PRY
+M-1986-44;1986 FIFA World Cup;S-105;round of 16;not applicable;DNK;ESP
+M-1986-45;1986 FIFA World Cup;S-095;quarter-finals;not applicable;BRA;FRA
+M-1986-46;1986 FIFA World Cup;S-102;quarter-finals;not applicable;DEU;MEX
+M-1986-47;1986 FIFA World Cup;S-099;quarter-finals;not applicable;ARG;ENG
+M-1986-48;1986 FIFA World Cup;S-104;quarter-finals;not applicable;ESP;BEL
+M-1986-49;1986 FIFA World Cup;S-095;semi-finals;not applicable;FRA;DEU
+M-1986-50;1986 FIFA World Cup;S-099;semi-finals;not applicable;ARG;BEL
+M-1986-51;1986 FIFA World Cup;S-104;third-place match;not applicable;BEL;FRA
+M-1986-52;1986 FIFA World Cup;S-099;final;not applicable;ARG;DEU
+M-1990-01;1990 FIFA World Cup;S-074;group stage;Group B;ARG;CMR
+M-1990-02;1990 FIFA World Cup;S-068;group stage;Group B;SUN;ROU
+M-1990-03;1990 FIFA World Cup;S-069;group stage;Group D;ARE;COL
+M-1990-04;1990 FIFA World Cup;S-079;group stage;Group A;ITA;AUT
+M-1990-05;1990 FIFA World Cup;S-071;group stage;Group A;USA;CSK
+M-1990-06;1990 FIFA World Cup;S-082;group stage;Group C;BRA;SWE
+M-1990-07;1990 FIFA World Cup;S-074;group stage;Group D;DEU;YUG
+M-1990-08;1990 FIFA World Cup;S-073;group stage;Group C;CRI;SCO
+M-1990-09;1990 FIFA World Cup;S-070;group stage;Group F;ENG;IRL
+M-1990-10;1990 FIFA World Cup;S-084;group stage;Group E;BEL;KOR
+M-1990-11;1990 FIFA World Cup;S-077;group stage;Group F;NLD;EGY
+M-1990-12;1990 FIFA World Cup;S-083;group stage;Group E;URY;ESP
+M-1990-13;1990 FIFA World Cup;S-076;group stage;Group B;ARG;SUN
+M-1990-14;1990 FIFA World Cup;S-068;group stage;Group B;CMR;ROU
+M-1990-15;1990 FIFA World Cup;S-069;group stage;Group D;YUG;COL
+M-1990-16;1990 FIFA World Cup;S-079;group stage;Group A;ITA;USA
+M-1990-17;1990 FIFA World Cup;S-071;group stage;Group A;AUT;CSK
+M-1990-18;1990 FIFA World Cup;S-074;group stage;Group D;DEU;ARE
+M-1990-19;1990 FIFA World Cup;S-082;group stage;Group C;BRA;CRI
+M-1990-20;1990 FIFA World Cup;S-073;group stage;Group C;SWE;SCO
+M-1990-21;1990 FIFA World Cup;S-070;group stage;Group F;ENG;NLD
+M-1990-22;1990 FIFA World Cup;S-077;group stage;Group F;IRL;EGY
+M-1990-23;1990 FIFA World Cup;S-084;group stage;Group E;BEL;URY
+M-1990-24;1990 FIFA World Cup;S-083;group stage;Group E;KOR;ESP
+M-1990-25;1990 FIFA World Cup;S-076;group stage;Group B;ARG;ROU
+M-1990-26;1990 FIFA World Cup;S-068;group stage;Group B;CMR;SUN
+M-1990-27;1990 FIFA World Cup;S-074;group stage;Group D;DEU;COL
+M-1990-28;1990 FIFA World Cup;S-069;group stage;Group D;YUG;ARE
+M-1990-29;1990 FIFA World Cup;S-071;group stage;Group A;AUT;USA
+M-1990-30;1990 FIFA World Cup;S-079;group stage;Group A;ITA;CSK
+M-1990-31;1990 FIFA World Cup;S-082;group stage;Group C;BRA;SCO
+M-1990-32;1990 FIFA World Cup;S-073;group stage;Group C;SWE;CRI
+M-1990-33;1990 FIFA World Cup;S-084;group stage;Group E;BEL;ESP
+M-1990-34;1990 FIFA World Cup;S-083;group stage;Group E;KOR;URY
+M-1990-35;1990 FIFA World Cup;S-070;group stage;Group F;ENG;EGY
+M-1990-36;1990 FIFA World Cup;S-077;group stage;Group F;IRL;NLD
+M-1990-37;1990 FIFA World Cup;S-076;round of 16;not applicable;CMR;COL
+M-1990-38;1990 FIFA World Cup;S-068;round of 16;not applicable;CSK;CRI
+M-1990-39;1990 FIFA World Cup;S-082;round of 16;not applicable;BRA;ARG
+M-1990-40;1990 FIFA World Cup;S-074;round of 16;not applicable;DEU;NLD
+M-1990-41;1990 FIFA World Cup;S-073;round of 16;not applicable;IRL;ROU
+M-1990-42;1990 FIFA World Cup;S-079;round of 16;not applicable;ITA;URY
+M-1990-43;1990 FIFA World Cup;S-084;round of 16;not applicable;ESP;YUG
+M-1990-44;1990 FIFA World Cup;S-069;round of 16;not applicable;ENG;BEL
+M-1990-45;1990 FIFA World Cup;S-071;quarter-finals;not applicable;ARG;YUG
+M-1990-46;1990 FIFA World Cup;S-079;quarter-finals;not applicable;IRL;ITA
+M-1990-47;1990 FIFA World Cup;S-074;quarter-finals;not applicable;CSK;DEU
+M-1990-48;1990 FIFA World Cup;S-076;quarter-finals;not applicable;CMR;ENG
+M-1990-49;1990 FIFA World Cup;S-076;semi-finals;not applicable;ARG;ITA
+M-1990-50;1990 FIFA World Cup;S-082;semi-finals;not applicable;DEU;ENG
+M-1990-51;1990 FIFA World Cup;S-068;third-place match;not applicable;ITA;ENG
+M-1990-52;1990 FIFA World Cup;S-079;final;not applicable;DEU;ARG
+M-1994-01;1994 FIFA World Cup;S-182;group stage;Group C;GER;BOL
+M-1994-02;1994 FIFA World Cup;S-183;group stage;Group C;ESP;KOR
+M-1994-03;1994 FIFA World Cup;S-188;group stage;Group A;USA;CHE
+M-1994-04;1994 FIFA World Cup;S-184;group stage;Group E;ITA;IRL
+M-1994-05;1994 FIFA World Cup;S-187;group stage;Group A;COL;ROU
+M-1994-06;1994 FIFA World Cup;S-186;group stage;Group F;BEL;MAR
+M-1994-07;1994 FIFA World Cup;S-190;group stage;Group E;NOR;MEX
+M-1994-08;1994 FIFA World Cup;S-187;group stage;Group B;CMR;SWE
+M-1994-09;1994 FIFA World Cup;S-189;group stage;Group B;BRA;RUS
+M-1994-10;1994 FIFA World Cup;S-190;group stage;Group F;NLD;SAU
+M-1994-11;1994 FIFA World Cup;S-185;group stage;Group D;ARG;GRC
+M-1994-12;1994 FIFA World Cup;S-182;group stage;Group C;GER;ESP
+M-1994-13;1994 FIFA World Cup;S-183;group stage;Group D;NGA;BGR
+M-1994-14;1994 FIFA World Cup;S-188;group stage;Group A;ROU;CHE
+M-1994-15;1994 FIFA World Cup;S-187;group stage;Group A;USA;COL
+M-1994-16;1994 FIFA World Cup;S-184;group stage;Group E;ITA;NOR
+M-1994-17;1994 FIFA World Cup;S-185;group stage;Group C;KOR;BOL
+M-1994-18;1994 FIFA World Cup;S-186;group stage;Group E;MEX;IRL
+M-1994-19;1994 FIFA World Cup;S-189;group stage;Group B;BRA;CMR
+M-1994-20;1994 FIFA World Cup;S-188;group stage;Group B;SWE;RUS
+M-1994-21;1994 FIFA World Cup;S-186;group stage;Group F;BEL;NLD
+M-1994-22;1994 FIFA World Cup;S-184;group stage;Group F;SAU;MAR
+M-1994-23;1994 FIFA World Cup;S-185;group stage;Group D;ARG;NGA
+M-1994-24;1994 FIFA World Cup;S-182;group stage;Group D;BGR;GRC
+M-1994-25;1994 FIFA World Cup;S-189;group stage;Group A;CHE;COL
+M-1994-26;1994 FIFA World Cup;S-187;group stage;Group A;USA;ROU
+M-1994-27;1994 FIFA World Cup;S-182;group stage;Group C;BOL;ESP
+M-1994-28;1994 FIFA World Cup;S-183;group stage;Group C;GER;KOR
+M-1994-29;1994 FIFA World Cup;S-190;group stage;Group E;ITA;MEX
+M-1994-30;1994 FIFA World Cup;S-184;group stage;Group E;IRL;NOR
+M-1994-31;1994 FIFA World Cup;S-189;group stage;Group B;RUS;CMR
+M-1994-32;1994 FIFA World Cup;S-188;group stage;Group B;BRA;SWE
+M-1994-33;1994 FIFA World Cup;S-190;group stage;Group F;BEL;SAU
+M-1994-34;1994 FIFA World Cup;S-186;group stage;Group F;MAR;NLD
+M-1994-35;1994 FIFA World Cup;S-183;group stage;Group D;ARG;BGR
+M-1994-36;1994 FIFA World Cup;S-185;group stage;Group D;GRC;NGA
+M-1994-37;1994 FIFA World Cup;S-182;round of 16;not applicable;GER;BEL
+M-1994-38;1994 FIFA World Cup;S-190;round of 16;not applicable;ESP;CHE
+M-1994-39;1994 FIFA World Cup;S-183;round of 16;not applicable;SAU;SWE
+M-1994-40;1994 FIFA World Cup;S-187;round of 16;not applicable;ROU;ARG
+M-1994-41;1994 FIFA World Cup;S-186;round of 16;not applicable;NLD;IRL
+M-1994-42;1994 FIFA World Cup;S-189;round of 16;not applicable;BRA;USA
+M-1994-43;1994 FIFA World Cup;S-185;round of 16;not applicable;NGA;ITA
+M-1994-44;1994 FIFA World Cup;S-184;round of 16;not applicable;MEX;BGR
+M-1994-45;1994 FIFA World Cup;S-185;quarter-finals;not applicable;ITA;ESP
+M-1994-46;1994 FIFA World Cup;S-183;quarter-finals;not applicable;NLD;BRA
+M-1994-47;1994 FIFA World Cup;S-184;quarter-finals;not applicable;BGR;GER
+M-1994-48;1994 FIFA World Cup;S-189;quarter-finals;not applicable;ROU;SWE
+M-1994-49;1994 FIFA World Cup;S-184;semi-finals;not applicable;BGR;ITA
+M-1994-50;1994 FIFA World Cup;S-187;semi-finals;not applicable;SWE;BRA
+M-1994-51;1994 FIFA World Cup;S-187;third-place match;not applicable;SWE;BGR
+M-1994-52;1994 FIFA World Cup;S-187;final;not applicable;BRA;ITA
+M-1998-01;1998 FIFA World Cup;S-048;group stage;Group A;BRA;SCO
+M-1998-02;1998 FIFA World Cup;S-043;group stage;Group A;MAR;NOR
+M-1998-03;1998 FIFA World Cup;S-037;group stage;Group B;ITA;CHL
+M-1998-04;1998 FIFA World Cup;S-051;group stage;Group B;CMR;AUT
+M-1998-05;1998 FIFA World Cup;S-043;group stage;Group D;PRY;BGR
+M-1998-06;1998 FIFA World Cup;S-039;group stage;Group C;SAU;DNK
+M-1998-07;1998 FIFA World Cup;S-042;group stage;Group C;FRA;ZAF
+M-1998-08;1998 FIFA World Cup;S-044;group stage;Group D;ESP;NGA
+M-1998-09;1998 FIFA World Cup;S-041;group stage;Group E;KOR;MEX
+M-1998-10;1998 FIFA World Cup;S-048;group stage;Group E;NLD;BEL
+M-1998-11;1998 FIFA World Cup;S-051;group stage;Group H;ARG;JPN
+M-1998-12;1998 FIFA World Cup;S-049;group stage;Group F;YUG;IRN
+M-1998-13;1998 FIFA World Cup;S-039;group stage;Group H;JAM;HRV
+M-1998-14;1998 FIFA World Cup;S-042;group stage;Group G;ENG;TUN
+M-1998-15;1998 FIFA World Cup;S-041;group stage;Group G;ROU;COL
+M-1998-16;1998 FIFA World Cup;S-045;group stage;Group F;GER;USA
+M-1998-17;1998 FIFA World Cup;S-037;group stage;Group A;SCO;NOR
+M-1998-18;1998 FIFA World Cup;S-044;group stage;Group A;BRA;MAR
+M-1998-19;1998 FIFA World Cup;S-049;group stage;Group B;CHL;AUT
+M-1998-20;1998 FIFA World Cup;S-043;group stage;Group B;ITA;CMR
+M-1998-21;1998 FIFA World Cup;S-051;group stage;Group C;ZAF;DNK
+M-1998-22;1998 FIFA World Cup;S-048;group stage;Group C;FRA;SAU
+M-1998-23;1998 FIFA World Cup;S-045;group stage;Group D;NGA;BGR
+M-1998-24;1998 FIFA World Cup;S-049;group stage;Group D;ESP;PRY
+M-1998-25;1998 FIFA World Cup;S-044;group stage;Group H;JPN;HRV
+M-1998-26;1998 FIFA World Cup;S-037;group stage;Group E;BEL;MEX
+M-1998-27;1998 FIFA World Cup;S-042;group stage;Group E;NLD;KOR
+M-1998-28;1998 FIFA World Cup;S-039;group stage;Group F;GER;YUG
+M-1998-29;1998 FIFA World Cup;S-045;group stage;Group H;ARG;JAM
+M-1998-30;1998 FIFA World Cup;S-041;group stage;Group F;USA;IRN
+M-1998-31;1998 FIFA World Cup;S-043;group stage;Group G;COL;TUN
+M-1998-32;1998 FIFA World Cup;S-051;group stage;Group G;ROU;ENG
+M-1998-33;1998 FIFA World Cup;S-044;group stage;Group B;CHL;CMR
+M-1998-34;1998 FIFA World Cup;S-048;group stage;Group B;ITA;AUT
+M-1998-35;1998 FIFA World Cup;S-042;group stage;Group A;BRA;NOR
+M-1998-36;1998 FIFA World Cup;S-049;group stage;Group A;SCO;MAR
+M-1998-37;1998 FIFA World Cup;S-041;group stage;Group C;FRA;DNK
+M-1998-38;1998 FIFA World Cup;S-037;group stage;Group C;ZAF;SAU
+M-1998-39;1998 FIFA World Cup;S-051;group stage;Group D;NGA;PRY
+M-1998-40;1998 FIFA World Cup;S-039;group stage;Group D;ESP;BGR
+M-1998-41;1998 FIFA World Cup;S-045;group stage;Group E;BEL;KOR
+M-1998-42;1998 FIFA World Cup;S-049;group stage;Group E;NLD;MEX
+M-1998-43;1998 FIFA World Cup;S-043;group stage;Group F;GER;IRN
+M-1998-44;1998 FIFA World Cup;S-044;group stage;Group F;USA;YUG
+M-1998-45;1998 FIFA World Cup;S-037;group stage;Group H;ARG;HRV
+M-1998-46;1998 FIFA World Cup;S-041;group stage;Group H;JPN;JAM
+M-1998-47;1998 FIFA World Cup;S-039;group stage;Group G;COL;ENG
+M-1998-48;1998 FIFA World Cup;S-048;group stage;Group G;ROU;TUN
+M-1998-49;1998 FIFA World Cup;S-042;round of 16;not applicable;ITA;NOR
+M-1998-50;1998 FIFA World Cup;S-045;round of 16;not applicable;BRA;CHL
+M-1998-51;1998 FIFA World Cup;S-039;round of 16;not applicable;FRA;PRY
+M-1998-52;1998 FIFA World Cup;S-048;round of 16;not applicable;NGA;DNK
+M-1998-53;1998 FIFA World Cup;S-043;round of 16;not applicable;GER;MEX
+M-1998-54;1998 FIFA World Cup;S-051;round of 16;not applicable;NLD;YUG
+M-1998-55;1998 FIFA World Cup;S-037;round of 16;not applicable;ROU;HRV
+M-1998-56;1998 FIFA World Cup;S-049;round of 16;not applicable;ARG;ENG
+M-1998-57;1998 FIFA World Cup;S-048;quarter-finals;not applicable;ITA;FRA
+M-1998-58;1998 FIFA World Cup;S-044;quarter-finals;not applicable;BRA;DNK
+M-1998-59;1998 FIFA World Cup;S-042;quarter-finals;not applicable;NLD;ARG
+M-1998-60;1998 FIFA World Cup;S-041;quarter-finals;not applicable;GER;HRV
+M-1998-61;1998 FIFA World Cup;S-042;semi-finals;not applicable;BRA;NLD
+M-1998-62;1998 FIFA World Cup;S-048;semi-finals;not applicable;FRA;HRV
+M-1998-63;1998 FIFA World Cup;S-045;third-place match;not applicable;NLD;HRV
+M-1998-64;1998 FIFA World Cup;S-048;final;not applicable;BRA;FRA
+M-2002-01;2002 FIFA World Cup;S-144;group stage;Group A;FRA;SEN
+M-2002-02;2002 FIFA World Cup;S-088;group stage;Group E;IRL;CMR
+M-2002-03;2002 FIFA World Cup;S-146;group stage;Group A;URY;DNK
+M-2002-04;2002 FIFA World Cup;S-092;group stage;Group E;GER;SAU
+M-2002-05;2002 FIFA World Cup;S-085;group stage;Group F;ARG;NGA
+M-2002-06;2002 FIFA World Cup;S-137;group stage;Group B;PRY;ZAF
+M-2002-07;2002 FIFA World Cup;S-091;group stage;Group F;ENG;SWE
+M-2002-08;2002 FIFA World Cup;S-140;group stage;Group B;ESP;SVN
+M-2002-09;2002 FIFA World Cup;S-088;group stage;Group G;HRV;MEX
+M-2002-10;2002 FIFA World Cup;S-146;group stage;Group C;BRA;TUR
+M-2002-11;2002 FIFA World Cup;S-092;group stage;Group G;ITA;ECU
+M-2002-12;2002 FIFA World Cup;S-140;group stage;Group C;CHN;CRI
+M-2002-13;2002 FIFA World Cup;S-091;group stage;Group H;JPN;BEL
+M-2002-14;2002 FIFA World Cup;S-137;group stage;Group D;KOR;POL
+M-2002-15;2002 FIFA World Cup;S-086;group stage;Group H;RUS;TUN
+M-2002-16;2002 FIFA World Cup;S-145;group stage;Group D;USA;PRT
+M-2002-17;2002 FIFA World Cup;S-085;group stage;Group E;GER;IRL
+M-2002-18;2002 FIFA World Cup;S-138;group stage;Group A;DNK;SEN
+M-2002-19;2002 FIFA World Cup;S-091;group stage;Group E;CMR;SAU
+M-2002-20;2002 FIFA World Cup;S-137;group stage;Group A;FRA;URY
+M-2002-21;2002 FIFA World Cup;S-086;group stage;Group F;SWE;NGA
+M-2002-22;2002 FIFA World Cup;S-142;group stage;Group B;ESP;PRY
+M-2002-23;2002 FIFA World Cup;S-092;group stage;Group F;ARG;ENG
+M-2002-24;2002 FIFA World Cup;S-138;group stage;Group B;ZAF;SVN
+M-2002-25;2002 FIFA World Cup;S-085;group stage;Group G;ITA;HRV
+M-2002-26;2002 FIFA World Cup;S-143;group stage;Group C;BRA;CHN
+M-2002-27;2002 FIFA World Cup;S-087;group stage;Group G;MEX;ECU
+M-2002-28;2002 FIFA World Cup;S-141;group stage;Group C;CRI;TUR
+M-2002-29;2002 FIFA World Cup;S-094;group stage;Group H;JPN;RUS
+M-2002-30;2002 FIFA World Cup;S-138;group stage;Group D;KOR;USA
+M-2002-31;2002 FIFA World Cup;S-089;group stage;Group H;TUN;BEL
+M-2002-32;2002 FIFA World Cup;S-142;group stage;Group D;PRT;POL
+M-2002-33;2002 FIFA World Cup;S-141;group stage;Group A;DNK;FRA
+M-2002-34;2002 FIFA World Cup;S-145;group stage;Group A;SEN;URY
+M-2002-35;2002 FIFA World Cup;S-093;group stage;Group E;CMR;GER
+M-2002-36;2002 FIFA World Cup;S-094;group stage;Group E;SAU;IRL
+M-2002-37;2002 FIFA World Cup;S-090;group stage;Group F;NGA;ENG
+M-2002-38;2002 FIFA World Cup;S-087;group stage;Group F;SWE;ARG
+M-2002-39;2002 FIFA World Cup;S-143;group stage;Group B;SVN;PRY
+M-2002-40;2002 FIFA World Cup;S-139;group stage;Group B;ZAF;ESP
+M-2002-41;2002 FIFA World Cup;S-145;group stage;Group C;CRI;BRA
+M-2002-42;2002 FIFA World Cup;S-144;group stage;Group C;TUR;CHN
+M-2002-43;2002 FIFA World Cup;S-094;group stage;Group G;ECU;HRV
+M-2002-44;2002 FIFA World Cup;S-089;group stage;Group G;MEX;ITA
+M-2002-45;2002 FIFA World Cup;S-093;group stage;Group H;BEL;RUS
+M-2002-46;2002 FIFA World Cup;S-090;group stage;Group H;TUN;JPN
+M-2002-47;2002 FIFA World Cup;S-139;group stage;Group D;POL;USA
+M-2002-48;2002 FIFA World Cup;S-141;group stage;Group D;PRT;KOR
+M-2002-49;2002 FIFA World Cup;S-143;round of 16;not applicable;GER;PRY
+M-2002-50;2002 FIFA World Cup;S-088;round of 16;not applicable;DNK;ENG
+M-2002-51;2002 FIFA World Cup;S-089;round of 16;not applicable;SWE;SEN
+M-2002-52;2002 FIFA World Cup;S-145;round of 16;not applicable;ESP;IRL
+M-2002-53;2002 FIFA World Cup;S-142;round of 16;not applicable;MEX;USA
+M-2002-54;2002 FIFA World Cup;S-086;round of 16;not applicable;BRA;BEL
+M-2002-55;2002 FIFA World Cup;S-087;round of 16;not applicable;JPN;TUR
+M-2002-56;2002 FIFA World Cup;S-139;round of 16;not applicable;KOR;ITA
+M-2002-57;2002 FIFA World Cup;S-093;quarter-finals;not applicable;ENG;BRA
+M-2002-58;2002 FIFA World Cup;S-146;quarter-finals;not applicable;GER;USA
+M-2002-59;2002 FIFA World Cup;S-140;quarter-finals;not applicable;ESP;KOR
+M-2002-60;2002 FIFA World Cup;S-090;quarter-finals;not applicable;SEN;TUR
+M-2002-61;2002 FIFA World Cup;S-144;semi-finals;not applicable;GER;KOR
+M-2002-62;2002 FIFA World Cup;S-091;semi-finals;not applicable;BRA;TUR
+M-2002-63;2002 FIFA World Cup;S-138;third-place match;not applicable;KOR;TUR
+M-2002-64;2002 FIFA World Cup;S-094;final;not applicable;GER;BRA
+M-2006-01;2006 FIFA World Cup;S-064;group stage;Group A;GER;CRI
+M-2006-02;2006 FIFA World Cup;S-058;group stage;Group A;POL;ECU
+M-2006-03;2006 FIFA World Cup;S-057;group stage;Group B;ENG;PRY
+M-2006-04;2006 FIFA World Cup;S-055;group stage;Group B;TTO;SWE
+M-2006-05;2006 FIFA World Cup;S-060;group stage;Group C;ARG;CIV
+M-2006-06;2006 FIFA World Cup;S-063;group stage;Group C;SCG;NLD
+M-2006-07;2006 FIFA World Cup;S-066;group stage;Group D;MEX;IRN
+M-2006-08;2006 FIFA World Cup;S-054;group stage;Group D;AGO;PRT
+M-2006-09;2006 FIFA World Cup;S-062;group stage;Group F;AUS;JPN
+M-2006-10;2006 FIFA World Cup;S-058;group stage;Group E;USA;CZE
+M-2006-11;2006 FIFA World Cup;S-061;group stage;Group E;ITA;GHA
+M-2006-12;2006 FIFA World Cup;S-057;group stage;Group G;KOR;TGO
+M-2006-13;2006 FIFA World Cup;S-067;group stage;Group G;FRA;CHE
+M-2006-14;2006 FIFA World Cup;S-053;group stage;Group F;BRA;HRV
+M-2006-15;2006 FIFA World Cup;S-063;group stage;Group H;ESP;UKR
+M-2006-16;2006 FIFA World Cup;S-064;group stage;Group H;TUN;SAU
+M-2006-17;2006 FIFA World Cup;S-055;group stage;Group A;GER;POL
+M-2006-18;2006 FIFA World Cup;S-060;group stage;Group A;ECU;CRI
+M-2006-19;2006 FIFA World Cup;S-066;group stage;Group B;ENG;TTO
+M-2006-20;2006 FIFA World Cup;S-053;group stage;Group B;SWE;PRY
+M-2006-21;2006 FIFA World Cup;S-058;group stage;Group C;ARG;SCG
+M-2006-22;2006 FIFA World Cup;S-067;group stage;Group C;NLD;CIV
+M-2006-23;2006 FIFA World Cup;S-061;group stage;Group D;MEX;AGO
+M-2006-24;2006 FIFA World Cup;S-057;group stage;Group D;PRT;IRN
+M-2006-25;2006 FIFA World Cup;S-054;group stage;Group E;CZE;GHA
+M-2006-26;2006 FIFA World Cup;S-062;group stage;Group E;ITA;USA
+M-2006-27;2006 FIFA World Cup;S-066;group stage;Group F;JPN;HRV
+M-2006-28;2006 FIFA World Cup;S-064;group stage;Group F;BRA;AUS
+M-2006-29;2006 FIFA World Cup;S-063;group stage;Group G;FRA;KOR
+M-2006-30;2006 FIFA World Cup;S-055;group stage;Group G;TGO;CHE
+M-2006-31;2006 FIFA World Cup;S-060;group stage;Group H;SAU;UKR
+M-2006-32;2006 FIFA World Cup;S-067;group stage;Group H;ESP;TUN
+M-2006-33;2006 FIFA World Cup;S-061;group stage;Group A;CRI;POL
+M-2006-34;2006 FIFA World Cup;S-053;group stage;Group A;ECU;GER
+M-2006-35;2006 FIFA World Cup;S-062;group stage;Group B;PRY;TTO
+M-2006-36;2006 FIFA World Cup;S-054;group stage;Group B;SWE;ENG
+M-2006-37;2006 FIFA World Cup;S-063;group stage;Group D;IRN;AGO
+M-2006-38;2006 FIFA World Cup;S-058;group stage;Group D;PRT;MEX
+M-2006-39;2006 FIFA World Cup;S-064;group stage;Group C;CIV;SCG
+M-2006-40;2006 FIFA World Cup;S-057;group stage;Group C;NLD;ARG
+M-2006-41;2006 FIFA World Cup;S-060;group stage;Group E;CZE;ITA
+M-2006-42;2006 FIFA World Cup;S-066;group stage;Group E;GHA;USA
+M-2006-43;2006 FIFA World Cup;S-067;group stage;Group F;HRV;AUS
+M-2006-44;2006 FIFA World Cup;S-055;group stage;Group F;JPN;BRA
+M-2006-45;2006 FIFA World Cup;S-062;group stage;Group H;SAU;ESP
+M-2006-46;2006 FIFA World Cup;S-053;group stage;Group H;UKR;TUN
+M-2006-47;2006 FIFA World Cup;S-061;group stage;Group G;CHE;KOR
+M-2006-48;2006 FIFA World Cup;S-054;group stage;Group G;TGO;FRA
+M-2006-49;2006 FIFA World Cup;S-064;round of 16;not applicable;GER;SWE
+M-2006-50;2006 FIFA World Cup;S-063;round of 16;not applicable;ARG;MEX
+M-2006-51;2006 FIFA World Cup;S-067;round of 16;not applicable;ENG;ECU
+M-2006-52;2006 FIFA World Cup;S-066;round of 16;not applicable;PRT;NLD
+M-2006-53;2006 FIFA World Cup;S-062;round of 16;not applicable;ITA;AUS
+M-2006-54;2006 FIFA World Cup;S-054;round of 16;not applicable;CHE;UKR
+M-2006-55;2006 FIFA World Cup;S-055;round of 16;not applicable;BRA;GHA
+M-2006-56;2006 FIFA World Cup;S-061;round of 16;not applicable;ESP;FRA
+M-2006-57;2006 FIFA World Cup;S-053;quarter-finals;not applicable;GER;ARG
+M-2006-58;2006 FIFA World Cup;S-060;quarter-finals;not applicable;ITA;UKR
+M-2006-59;2006 FIFA World Cup;S-058;quarter-finals;not applicable;ENG;PRT
+M-2006-60;2006 FIFA World Cup;S-057;quarter-finals;not applicable;BRA;FRA
+M-2006-61;2006 FIFA World Cup;S-055;semi-finals;not applicable;GER;ITA
+M-2006-62;2006 FIFA World Cup;S-064;semi-finals;not applicable;PRT;FRA
+M-2006-63;2006 FIFA World Cup;S-067;third-place match;not applicable;GER;PRT
+M-2006-64;2006 FIFA World Cup;S-053;final;not applicable;ITA;FRA
+M-2010-01;2010 FIFA World Cup;S-131;group stage;Group A;ZAF;MEX
+M-2010-02;2010 FIFA World Cup;S-128;group stage;Group A;URY;FRA
+M-2010-03;2010 FIFA World Cup;S-134;group stage;Group B;KOR;GRC
+M-2010-04;2010 FIFA World Cup;S-130;group stage;Group B;ARG;NGA
+M-2010-05;2010 FIFA World Cup;S-136;group stage;Group C;ENG;USA
+M-2010-06;2010 FIFA World Cup;S-133;group stage;Group C;DZA;SVN
+M-2010-07;2010 FIFA World Cup;S-135;group stage;Group D;SRB;GHA
+M-2010-08;2010 FIFA World Cup;S-129;group stage;Group D;GER;AUS
+M-2010-09;2010 FIFA World Cup;S-131;group stage;Group E;NLD;DNK
+M-2010-10;2010 FIFA World Cup;S-127;group stage;Group E;JPN;CMR
+M-2010-11;2010 FIFA World Cup;S-128;group stage;Group F;ITA;PRY
+M-2010-12;2010 FIFA World Cup;S-136;group stage;Group F;NZL;SVK
+M-2010-13;2010 FIFA World Cup;S-134;group stage;Group G;CIV;PRT
+M-2010-14;2010 FIFA World Cup;S-130;group stage;Group G;BRA;PRK
+M-2010-15;2010 FIFA World Cup;S-132;group stage;Group H;HND;CHL
+M-2010-16;2010 FIFA World Cup;S-129;group stage;Group H;ESP;CHE
+M-2010-17;2010 FIFA World Cup;S-135;group stage;Group A;ZAF;URY
+M-2010-18;2010 FIFA World Cup;S-131;group stage;Group B;ARG;KOR
+M-2010-19;2010 FIFA World Cup;S-127;group stage;Group B;GRC;NGA
+M-2010-20;2010 FIFA World Cup;S-133;group stage;Group A;FRA;MEX
+M-2010-21;2010 FIFA World Cup;S-134;group stage;Group D;GER;SRB
+M-2010-22;2010 FIFA World Cup;S-130;group stage;Group C;SVN;USA
+M-2010-23;2010 FIFA World Cup;S-128;group stage;Group C;ENG;DZA
+M-2010-24;2010 FIFA World Cup;S-129;group stage;Group E;NLD;JPN
+M-2010-25;2010 FIFA World Cup;S-136;group stage;Group D;GHA;AUS
+M-2010-26;2010 FIFA World Cup;S-135;group stage;Group E;CMR;DNK
+M-2010-27;2010 FIFA World Cup;S-127;group stage;Group F;SVK;PRY
+M-2010-28;2010 FIFA World Cup;S-132;group stage;Group F;ITA;NZL
+M-2010-29;2010 FIFA World Cup;S-131;group stage;Group G;BRA;CIV
+M-2010-30;2010 FIFA World Cup;S-128;group stage;Group G;PRT;PRK
+M-2010-31;2010 FIFA World Cup;S-134;group stage;Group H;CHL;CHE
+M-2010-32;2010 FIFA World Cup;S-130;group stage;Group H;ESP;HND
+M-2010-33;2010 FIFA World Cup;S-127;group stage;Group A;FRA;ZAF
+M-2010-34;2010 FIFA World Cup;S-136;group stage;Group A;MEX;URY
+M-2010-35;2010 FIFA World Cup;S-133;group stage;Group B;GRC;ARG
+M-2010-36;2010 FIFA World Cup;S-129;group stage;Group B;NGA;KOR
+M-2010-37;2010 FIFA World Cup;S-134;group stage;Group C;SVN;ENG
+M-2010-38;2010 FIFA World Cup;S-135;group stage;Group C;USA;DZA
+M-2010-39;2010 FIFA World Cup;S-132;group stage;Group D;AUS;SRB
+M-2010-40;2010 FIFA World Cup;S-131;group stage;Group D;GHA;GER
+M-2010-41;2010 FIFA World Cup;S-133;group stage;Group F;PRY;NZL
+M-2010-42;2010 FIFA World Cup;S-130;group stage;Group F;SVK;ITA
+M-2010-43;2010 FIFA World Cup;S-128;group stage;Group E;CMR;NLD
+M-2010-44;2010 FIFA World Cup;S-136;group stage;Group E;DNK;JPN
+M-2010-45;2010 FIFA World Cup;S-132;group stage;Group G;PRK;CIV
+M-2010-46;2010 FIFA World Cup;S-129;group stage;Group G;PRT;BRA
+M-2010-47;2010 FIFA World Cup;S-135;group stage;Group H;CHL;ESP
+M-2010-48;2010 FIFA World Cup;S-127;group stage;Group H;CHE;HND
+M-2010-49;2010 FIFA World Cup;S-134;round of 16;not applicable;URY;KOR
+M-2010-50;2010 FIFA World Cup;S-136;round of 16;not applicable;USA;GHA
+M-2010-51;2010 FIFA World Cup;S-127;round of 16;not applicable;GER;ENG
+M-2010-52;2010 FIFA World Cup;S-131;round of 16;not applicable;ARG;MEX
+M-2010-53;2010 FIFA World Cup;S-129;round of 16;not applicable;NLD;SVK
+M-2010-54;2010 FIFA World Cup;S-130;round of 16;not applicable;BRA;CHL
+M-2010-55;2010 FIFA World Cup;S-135;round of 16;not applicable;PRY;JPN
+M-2010-56;2010 FIFA World Cup;S-128;round of 16;not applicable;ESP;PRT
+M-2010-57;2010 FIFA World Cup;S-134;quarter-finals;not applicable;NLD;BRA
+M-2010-58;2010 FIFA World Cup;S-131;quarter-finals;not applicable;URY;GHA
+M-2010-59;2010 FIFA World Cup;S-128;quarter-finals;not applicable;ARG;GER
+M-2010-60;2010 FIFA World Cup;S-130;quarter-finals;not applicable;PRY;ESP
+M-2010-61;2010 FIFA World Cup;S-128;semi-finals;not applicable;URY;NLD
+M-2010-62;2010 FIFA World Cup;S-129;semi-finals;not applicable;GER;ESP
+M-2010-63;2010 FIFA World Cup;S-134;third-place match;not applicable;URY;GER
+M-2010-64;2010 FIFA World Cup;S-131;final;not applicable;NLD;ESP
+M-2014-01;2014 FIFA World Cup;S-022;group stage;Group A;BRA;HRV
+M-2014-02;2014 FIFA World Cup;S-015;group stage;Group A;MEX;CMR
+M-2014-03;2014 FIFA World Cup;S-021;group stage;Group B;ESP;NLD
+M-2014-04;2014 FIFA World Cup;S-010;group stage;Group B;CHL;AUS
+M-2014-05;2014 FIFA World Cup;S-008;group stage;Group C;COL;GRC
+M-2014-06;2014 FIFA World Cup;S-013;group stage;Group D;URY;CRI
+M-2014-07;2014 FIFA World Cup;S-014;group stage;Group D;ENG;ITA
+M-2014-08;2014 FIFA World Cup;S-018;group stage;Group C;CIV;JPN
+M-2014-09;2014 FIFA World Cup;S-009;group stage;Group E;CHE;ECU
+M-2014-10;2014 FIFA World Cup;S-016;group stage;Group E;FRA;HND
+M-2014-11;2014 FIFA World Cup;S-020;group stage;Group F;ARG;BIH
+M-2014-12;2014 FIFA World Cup;S-021;group stage;Group G;GER;PRT
+M-2014-13;2014 FIFA World Cup;S-011;group stage;Group F;IRN;NGA
+M-2014-14;2014 FIFA World Cup;S-015;group stage;Group G;GHA;USA
+M-2014-15;2014 FIFA World Cup;S-008;group stage;Group H;BEL;DZA
+M-2014-16;2014 FIFA World Cup;S-013;group stage;Group A;BRA;MEX
+M-2014-17;2014 FIFA World Cup;S-010;group stage;Group H;RUS;KOR
+M-2014-18;2014 FIFA World Cup;S-016;group stage;Group B;AUS;NLD
+M-2014-19;2014 FIFA World Cup;S-020;group stage;Group B;ESP;CHL
+M-2014-20;2014 FIFA World Cup;S-014;group stage;Group A;CMR;HRV
+M-2014-21;2014 FIFA World Cup;S-009;group stage;Group C;COL;CIV
+M-2014-22;2014 FIFA World Cup;S-022;group stage;Group D;URY;ENG
+M-2014-23;2014 FIFA World Cup;S-015;group stage;Group C;JPN;GRC
+M-2014-24;2014 FIFA World Cup;S-018;group stage;Group D;ITA;CRI
+M-2014-25;2014 FIFA World Cup;S-021;group stage;Group E;CHE;FRA
+M-2014-26;2014 FIFA World Cup;S-011;group stage;Group E;HND;ECU
+M-2014-27;2014 FIFA World Cup;S-008;group stage;Group F;ARG;IRN
+M-2014-28;2014 FIFA World Cup;S-013;group stage;Group G;GER;GHA
+M-2014-29;2014 FIFA World Cup;S-010;group stage;Group F;NGA;BIH
+M-2014-30;2014 FIFA World Cup;S-020;group stage;Group H;BEL;RUS
+M-2014-31;2014 FIFA World Cup;S-016;group stage;Group H;KOR;DZA
+M-2014-32;2014 FIFA World Cup;S-014;group stage;Group G;USA;PRT
+M-2014-33;2014 FIFA World Cup;S-011;group stage;Group B;AUS;ESP
+M-2014-34;2014 FIFA World Cup;S-022;group stage;Group B;NLD;CHL
+M-2014-35;2014 FIFA World Cup;S-009;group stage;Group A;CMR;BRA
+M-2014-36;2014 FIFA World Cup;S-018;group stage;Group A;HRV;MEX
+M-2014-37;2014 FIFA World Cup;S-008;group stage;Group D;CRI;ENG
+M-2014-38;2014 FIFA World Cup;S-015;group stage;Group D;ITA;URY
+M-2014-39;2014 FIFA World Cup;S-010;group stage;Group C;JPN;COL
+M-2014-40;2014 FIFA World Cup;S-013;group stage;Group C;GRC;CIV
+M-2014-41;2014 FIFA World Cup;S-021;group stage;Group F;BIH;IRN
+M-2014-42;2014 FIFA World Cup;S-016;group stage;Group F;NGA;ARG
+M-2014-43;2014 FIFA World Cup;S-014;group stage;Group E;HND;CHE
+M-2014-44;2014 FIFA World Cup;S-020;group stage;Group E;ECU;FRA
+M-2014-45;2014 FIFA World Cup;S-009;group stage;Group G;PRT;GHA
+M-2014-46;2014 FIFA World Cup;S-018;group stage;Group G;USA;GER
+M-2014-47;2014 FIFA World Cup;S-011;group stage;Group H;DZA;RUS
+M-2014-48;2014 FIFA World Cup;S-022;group stage;Group H;KOR;BEL
+M-2014-49;2014 FIFA World Cup;S-008;round of 16;not applicable;BRA;CHL
+M-2014-50;2014 FIFA World Cup;S-020;round of 16;not applicable;COL;URY
+M-2014-51;2014 FIFA World Cup;S-013;round of 16;not applicable;NLD;MEX
+M-2014-52;2014 FIFA World Cup;S-018;round of 16;not applicable;CRI;GRC
+M-2014-53;2014 FIFA World Cup;S-009;round of 16;not applicable;FRA;NGA
+M-2014-54;2014 FIFA World Cup;S-016;round of 16;not applicable;GER;DZA
+M-2014-55;2014 FIFA World Cup;S-022;round of 16;not applicable;ARG;CHE
+M-2014-56;2014 FIFA World Cup;S-021;round of 16;not applicable;BEL;USA
+M-2014-57;2014 FIFA World Cup;S-020;quarter-finals;not applicable;FRA;GER
+M-2014-58;2014 FIFA World Cup;S-013;quarter-finals;not applicable;BRA;COL
+M-2014-59;2014 FIFA World Cup;S-009;quarter-finals;not applicable;ARG;BEL
+M-2014-60;2014 FIFA World Cup;S-021;quarter-finals;not applicable;NLD;CRI
+M-2014-61;2014 FIFA World Cup;S-008;semi-finals;not applicable;BRA;GER
+M-2014-62;2014 FIFA World Cup;S-022;semi-finals;not applicable;NLD;ARG
+M-2014-63;2014 FIFA World Cup;S-009;third-place match;not applicable;BRA;NLD
+M-2014-64;2014 FIFA World Cup;S-020;final;not applicable;GER;ARG
+M-2018-01;2018 FIFA World Cup;S-117;group stage;Group A;RUS;SAU
+M-2018-02;2018 FIFA World Cup;S-126;group stage;Group A;EGY;URY
+M-2018-03;2018 FIFA World Cup;S-121;group stage;Group B;MAR;IRN
+M-2018-04;2018 FIFA World Cup;S-124;group stage;Group B;PRT;ESP
+M-2018-05;2018 FIFA World Cup;S-116;group stage;Group C;FRA;AUS
+M-2018-06;2018 FIFA World Cup;S-118;group stage;Group D;ARG;ISL
+M-2018-07;2018 FIFA World Cup;S-123;group stage;Group C;PER;DNK
+M-2018-08;2018 FIFA World Cup;S-115;group stage;Group D;HRV;NGA
+M-2018-09;2018 FIFA World Cup;S-122;group stage;Group E;CRI;SRB
+M-2018-10;2018 FIFA World Cup;S-117;group stage;Group F;GER;MEX
+M-2018-11;2018 FIFA World Cup;S-120;group stage;Group E;BRA;CHE
+M-2018-12;2018 FIFA World Cup;S-119;group stage;Group F;SWE;KOR
+M-2018-13;2018 FIFA World Cup;S-124;group stage;Group G;BEL;PAN
+M-2018-14;2018 FIFA World Cup;S-125;group stage;Group G;TUN;ENG
+M-2018-15;2018 FIFA World Cup;S-123;group stage;Group H;COL;JPN
+M-2018-16;2018 FIFA World Cup;S-118;group stage;Group H;POL;SEN
+M-2018-17;2018 FIFA World Cup;S-121;group stage;Group A;RUS;EGY
+M-2018-18;2018 FIFA World Cup;S-117;group stage;Group B;PRT;MAR
+M-2018-19;2018 FIFA World Cup;S-120;group stage;Group A;URY;SAU
+M-2018-20;2018 FIFA World Cup;S-116;group stage;Group B;IRN;ESP
+M-2018-21;2018 FIFA World Cup;S-122;group stage;Group C;DNK;AUS
+M-2018-22;2018 FIFA World Cup;S-126;group stage;Group C;FRA;PER
+M-2018-23;2018 FIFA World Cup;S-119;group stage;Group D;ARG;HRV
+M-2018-24;2018 FIFA World Cup;S-121;group stage;Group E;BRA;CRI
+M-2018-25;2018 FIFA World Cup;S-125;group stage;Group D;NGA;ISL
+M-2018-26;2018 FIFA World Cup;S-115;group stage;Group E;SRB;CHE
+M-2018-27;2018 FIFA World Cup;S-118;group stage;Group G;BEL;TUN
+M-2018-28;2018 FIFA World Cup;S-120;group stage;Group F;KOR;MEX
+M-2018-29;2018 FIFA World Cup;S-124;group stage;Group F;GER;SWE
+M-2018-30;2018 FIFA World Cup;S-119;group stage;Group G;ENG;PAN
+M-2018-31;2018 FIFA World Cup;S-126;group stage;Group H;JPN;SEN
+M-2018-32;2018 FIFA World Cup;S-116;group stage;Group H;POL;COL
+M-2018-33;2018 FIFA World Cup;S-125;group stage;Group A;SAU;EGY
+M-2018-34;2018 FIFA World Cup;S-122;group stage;Group A;URY;RUS
+M-2018-35;2018 FIFA World Cup;S-115;group stage;Group B;ESP;MAR
+M-2018-36;2018 FIFA World Cup;S-123;group stage;Group B;IRN;PRT
+M-2018-37;2018 FIFA World Cup;S-124;group stage;Group C;AUS;PER
+M-2018-38;2018 FIFA World Cup;S-117;group stage;Group C;DNK;FRA
+M-2018-39;2018 FIFA World Cup;S-120;group stage;Group D;ISL;HRV
+M-2018-40;2018 FIFA World Cup;S-121;group stage;Group D;NGA;ARG
+M-2018-41;2018 FIFA World Cup;S-116;group stage;Group F;KOR;GER
+M-2018-42;2018 FIFA World Cup;S-126;group stage;Group F;MEX;SWE
+M-2018-43;2018 FIFA World Cup;S-118;group stage;Group E;SRB;BRA
+M-2018-44;2018 FIFA World Cup;S-119;group stage;Group E;CHE;CRI
+M-2018-45;2018 FIFA World Cup;S-125;group stage;Group H;JPN;POL
+M-2018-46;2018 FIFA World Cup;S-122;group stage;Group H;SEN;COL
+M-2018-47;2018 FIFA World Cup;S-115;group stage;Group G;ENG;BEL
+M-2018-48;2018 FIFA World Cup;S-123;group stage;Group G;PAN;TUN
+M-2018-49;2018 FIFA World Cup;S-116;round of 16;not applicable;FRA;ARG
+M-2018-50;2018 FIFA World Cup;S-124;round of 16;not applicable;URY;PRT
+M-2018-51;2018 FIFA World Cup;S-117;round of 16;not applicable;ESP;RUS
+M-2018-52;2018 FIFA World Cup;S-119;round of 16;not applicable;HRV;DNK
+M-2018-53;2018 FIFA World Cup;S-122;round of 16;not applicable;BRA;MEX
+M-2018-54;2018 FIFA World Cup;S-120;round of 16;not applicable;BEL;JPN
+M-2018-55;2018 FIFA World Cup;S-121;round of 16;not applicable;SWE;CHE
+M-2018-56;2018 FIFA World Cup;S-118;round of 16;not applicable;COL;ENG
+M-2018-57;2018 FIFA World Cup;S-119;quarter-finals;not applicable;URY;FRA
+M-2018-58;2018 FIFA World Cup;S-116;quarter-finals;not applicable;BRA;BEL
+M-2018-59;2018 FIFA World Cup;S-122;quarter-finals;not applicable;SWE;ENG
+M-2018-60;2018 FIFA World Cup;S-124;quarter-finals;not applicable;RUS;HRV
+M-2018-61;2018 FIFA World Cup;S-121;semi-finals;not applicable;FRA;BEL
+M-2018-62;2018 FIFA World Cup;S-117;semi-finals;not applicable;HRV;ENG
+M-2018-63;2018 FIFA World Cup;S-121;third-place match;not applicable;BEL;ENG
+M-2018-64;2018 FIFA World Cup;S-117;final;not applicable;FRA;HRV
+M-2022-01;2022 FIFA World Cup;S-107;group stage;Group A;QAT;ECU
+M-2022-02;2022 FIFA World Cup;S-110;group stage;Group B;ENG;IRN
+M-2022-03;2022 FIFA World Cup;S-112;group stage;Group A;SEN;NLD
+M-2022-04;2022 FIFA World Cup;S-108;group stage;Group B;USA;WAL
+M-2022-05;2022 FIFA World Cup;S-114;group stage;Group C;ARG;SAU
+M-2022-06;2022 FIFA World Cup;S-109;group stage;Group D;DNK;TUN
+M-2022-07;2022 FIFA World Cup;S-113;group stage;Group C;MEX;POL
+M-2022-08;2022 FIFA World Cup;S-111;group stage;Group D;FRA;AUS
+M-2022-09;2022 FIFA World Cup;S-107;group stage;Group F;MAR;HRV
+M-2022-10;2022 FIFA World Cup;S-110;group stage;Group E;GER;JPN
+M-2022-11;2022 FIFA World Cup;S-112;group stage;Group E;ESP;CRI
+M-2022-12;2022 FIFA World Cup;S-108;group stage;Group F;BEL;CAN
+M-2022-13;2022 FIFA World Cup;S-111;group stage;Group G;CHE;CMR
+M-2022-14;2022 FIFA World Cup;S-109;group stage;Group H;URY;KOR
+M-2022-15;2022 FIFA World Cup;S-113;group stage;Group H;PRT;GHA
+M-2022-16;2022 FIFA World Cup;S-114;group stage;Group G;BRA;SRB
+M-2022-17;2022 FIFA World Cup;S-108;group stage;Group B;WAL;IRN
+M-2022-18;2022 FIFA World Cup;S-112;group stage;Group A;QAT;SEN
+M-2022-19;2022 FIFA World Cup;S-110;group stage;Group A;NLD;ECU
+M-2022-20;2022 FIFA World Cup;S-107;group stage;Group B;ENG;USA
+M-2022-21;2022 FIFA World Cup;S-111;group stage;Group D;TUN;AUS
+M-2022-22;2022 FIFA World Cup;S-109;group stage;Group C;POL;SAU
+M-2022-23;2022 FIFA World Cup;S-113;group stage;Group D;FRA;DNK
+M-2022-24;2022 FIFA World Cup;S-114;group stage;Group C;ARG;MEX
+M-2022-25;2022 FIFA World Cup;S-108;group stage;Group E;JPN;CRI
+M-2022-26;2022 FIFA World Cup;S-112;group stage;Group F;BEL;MAR
+M-2022-27;2022 FIFA World Cup;S-110;group stage;Group F;HRV;CAN
+M-2022-28;2022 FIFA World Cup;S-107;group stage;Group E;ESP;GER
+M-2022-29;2022 FIFA World Cup;S-111;group stage;Group G;CMR;SRB
+M-2022-30;2022 FIFA World Cup;S-109;group stage;Group H;KOR;GHA
+M-2022-31;2022 FIFA World Cup;S-113;group stage;Group G;BRA;CHE
+M-2022-32;2022 FIFA World Cup;S-114;group stage;Group H;PRT;URY
+M-2022-33;2022 FIFA World Cup;S-110;group stage;Group A;ECU;SEN
+M-2022-34;2022 FIFA World Cup;S-107;group stage;Group A;NLD;QAT
+M-2022-35;2022 FIFA World Cup;S-112;group stage;Group B;IRN;USA
+M-2022-36;2022 FIFA World Cup;S-108;group stage;Group B;WAL;ENG
+M-2022-37;2022 FIFA World Cup;S-111;group stage;Group D;AUS;DNK
+M-2022-38;2022 FIFA World Cup;S-109;group stage;Group D;TUN;FRA
+M-2022-39;2022 FIFA World Cup;S-113;group stage;Group C;POL;ARG
+M-2022-40;2022 FIFA World Cup;S-114;group stage;Group C;SAU;MEX
+M-2022-41;2022 FIFA World Cup;S-112;group stage;Group F;CAN;MAR
+M-2022-42;2022 FIFA World Cup;S-108;group stage;Group F;HRV;BEL
+M-2022-43;2022 FIFA World Cup;S-107;group stage;Group E;CRI;GER
+M-2022-44;2022 FIFA World Cup;S-110;group stage;Group E;JPN;ESP
+M-2022-45;2022 FIFA World Cup;S-111;group stage;Group H;GHA;URY
+M-2022-46;2022 FIFA World Cup;S-109;group stage;Group H;KOR;PRT
+M-2022-47;2022 FIFA World Cup;S-114;group stage;Group G;CMR;BRA
+M-2022-48;2022 FIFA World Cup;S-113;group stage;Group G;SRB;CHE
+M-2022-49;2022 FIFA World Cup;S-110;round of 16;not applicable;NLD;USA
+M-2022-50;2022 FIFA World Cup;S-108;round of 16;not applicable;ARG;AUS
+M-2022-51;2022 FIFA World Cup;S-112;round of 16;not applicable;FRA;POL
+M-2022-52;2022 FIFA World Cup;S-107;round of 16;not applicable;ENG;SEN
+M-2022-53;2022 FIFA World Cup;S-111;round of 16;not applicable;JPN;HRV
+M-2022-54;2022 FIFA World Cup;S-113;round of 16;not applicable;BRA;KOR
+M-2022-55;2022 FIFA World Cup;S-109;round of 16;not applicable;MAR;ESP
+M-2022-56;2022 FIFA World Cup;S-114;round of 16;not applicable;PRT;CHE
+M-2022-57;2022 FIFA World Cup;S-109;quarter-finals;not applicable;HRV;BRA
+M-2022-58;2022 FIFA World Cup;S-114;quarter-finals;not applicable;NLD;ARG
+M-2022-59;2022 FIFA World Cup;S-112;quarter-finals;not applicable;MAR;PRT
+M-2022-60;2022 FIFA World Cup;S-107;quarter-finals;not applicable;ENG;FRA
+M-2022-61;2022 FIFA World Cup;S-114;semi-finals;not applicable;ARG;HRV
+M-2022-62;2022 FIFA World Cup;S-107;semi-finals;not applicable;FRA;MAR
+M-2022-63;2022 FIFA World Cup;S-110;third-place match;not applicable;HRV;MAR
+M-2022-64;2022 FIFA World Cup;S-114;final;not applicable;ARG;FRA
